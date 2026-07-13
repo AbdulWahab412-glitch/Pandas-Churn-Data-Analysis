@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age,City,Tenure_Months,Contract_Type,Internet_Service,Phone_Service,Multiple_Lines,Online_Security,Online_Backup,Device_Protection,Tech_Support,Streaming_TV,Streaming_Movies,Payment_Method,Monthly_Charges,Total_Charges,Satisfaction_Score,Churn,Churn_Reason
+CUST00001,Male,55,Kolkata,15,Month-to-month,Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,No,UPI,0.0,0.0,4,Yes,Price
+CUST00002,Male,23,Kolkata,1,Month-to-month,DSL,No,No,Yes,No,Yes,No,Yes,No,UPI,35.97,28.23,5,Yes,Competitor
+CUST00003,Male,73,Delhi,25,One Year,DSL,No,No,Yes,No,No,Yes,No,Yes,Debit Card,24.58,587.29,5,No,N/A
+CUST00004,Female,71,Mumbai,69,Month-to-month,Fiber,No,No,No,Yes,Yes,No,Yes,No,Net Banking,36.34,2495.41,9,No,N/A
+CUST00005,Female,75,Kolkata,59,One Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,33.96,2028.14,9,No,N/A
+CUST00006,Male,61,Delhi,50,Two Year,None,No,No,Yes,No,No,Yes,No,Yes,UPI,119.61,5983.41,9,No,N/A
+CUST00007,Male,27,Chennai,65,Month-to-month,None,Yes,No,No,Yes,Yes,No,No,Yes,Credit Card,70.77,4560.69,5,No,N/A
+CUST00008,Male,26,Ahmedabad,31,Two Year,Fiber,No,No,Yes,Yes,No,No,No,No,Net Banking,114.69,3513.96,8,No,N/A
+CUST00009,Male,18,Delhi,16,Two Year,None,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Net Banking,26.4,374.5,9,No,N/A
+CUST00010,Female,69,Kolkata,28,Month-to-month,Fiber,Yes,No,No,No,No,No,Yes,Yes,Credit Card,92.34,2623.76,10,No,N/A
+CUST00011,Female,26,Kolkata,52,Month-to-month,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Debit Card,100.06,5164.05,4,No,N/A
+CUST00012,Male,42,Pune,22,One Year,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,UPI,68.14,1535.55,1,No,N/A
+CUST00013,Male,72,Bengaluru,8,Month-to-month,None,Yes,Yes,No,Yes,Yes,Yes,Yes,No,UPI,67.68,583.38,9,No,N/A
+CUST00014,Female,38,Delhi,34,Month-to-month,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,UPI,91.62,3088.95,7,Yes,Competitor
+CUST00015,Male,60,Pune,37,Two Year,Fiber,Yes,No,Yes,Yes,Yes,No,No,Yes,UPI,103.37,3845.04,10,No,N/A
+CUST00016,Male,23,Kolkata,27,One Year,Fiber,Yes,No,Yes,No,Yes,No,No,Yes,Credit Card,105.29,2843.37,5,No,N/A
+CUST00017,Male,45,Bengaluru,10,Month-to-month,DSL,No,Yes,No,Yes,Yes,Yes,No,No,Debit Card,89.1,855.91,1,No,N/A
+CUST00018,Female,69,Hyderabad,31,One Year,Fiber,Yes,No,Yes,No,Yes,Yes,No,No,UPI,117.62,3677.3,7,Yes,Competitor
+CUST00019,Female,40,Kolkata,30,Two Year,None,No,Yes,Yes,No,Yes,No,Yes,Yes,Net Banking,86.0,2569.85,5,No,N/A
+CUST00020,Male,34,Mumbai,45,Two Year,DSL,Yes,Yes,No,No,Yes,No,No,Yes,UPI,51.37,2322.27,9,Yes,Support
+CUST00021,Male,44,Kolkata,65,Two Year,None,Yes,No,No,Yes,No,No,Yes,No,UPI,60.84,3944.84,5,No,N/A
+CUST00022,Female,50,Chennai,60,Month-to-month,Fiber,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit Card,87.56,5254.72,3,No,N/A
+CUST00023,Male,27,Mumbai,59,Month-to-month,DSL,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Net Banking,82.98,4865.26,7,No,N/A
+CUST00024,Female,71,Ahmedabad,68,Month-to-month,None,No,No,No,Yes,No,No,Yes,No,Net Banking,79.55,5454.4,8,No,N/A
+CUST00025,Male,42,Bengaluru,10,Two Year,Fiber,Yes,No,No,No,No,No,Yes,Yes,Net Banking,43.45,418.08,9,Yes,Poor Service
+CUST00026,Male,40,Pune,50,One Year,DSL,Yes,No,Yes,No,No,No,Yes,No,UPI,78.41,3940.05,10,No,N/A
+CUST00027,Female,55,Mumbai,52,Month-to-month,None,No,Yes,No,Yes,Yes,No,No,No,Debit Card,104.05,5452.55,10,No,N/A
+CUST00028,Male,48,Mumbai,59,Two Year,None,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit Card,96.12,5658.99,7,No,N/A
+CUST00029,Female,67,Chennai,20,Month-to-month,None,Yes,Yes,No,Yes,Yes,No,No,No,Debit Card,67.36,1308.64,4,No,N/A
+CUST00030,Male,68,Mumbai,10,One Year,None,No,No,Yes,No,Yes,No,No,Yes,Net Banking,103.06,1004.88,5,No,N/A
+CUST00031,Female,57,Ahmedabad,47,One Year,DSL,No,No,Yes,Yes,No,No,Yes,No,Net Banking,102.87,4855.62,7,No,N/A
+CUST00032,Female,69,Pune,44,One Year,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Net Banking,0.0,35.1,3,No,N/A
+CUST00033,Female,60,Chennai,63,One Year,None,No,No,No,No,No,No,No,No,Debit Card,21.72,1347.78,7,No,N/A
+CUST00034,Female,35,Pune,16,Month-to-month,Fiber,No,Yes,No,Yes,No,Yes,Yes,No,Credit Card,51.55,849.09,3,No,N/A
+CUST00035,Female,48,Ahmedabad,7,One Year,DSL,Yes,Yes,No,No,Yes,Yes,No,No,Credit Card,89.74,590.81,8,Yes,Price
+CUST00036,Male,67,Kolkata,7,One Year,DSL,No,No,No,Yes,Yes,Yes,Yes,No,Credit Card,101.11,752.68,2,Yes,Relocation
+CUST00037,Female,36,Mumbai,21,Month-to-month,DSL,No,No,Yes,Yes,No,Yes,No,Yes,Debit Card,75.2,1544.85,7,No,N/A
+CUST00038,Female,46,Delhi,20,One Year,None,No,No,No,No,No,Yes,Yes,No,UPI,102.66,2010.34,3,No,N/A
+CUST00039,Male,66,Pune,33,Two Year,Fiber,Yes,No,No,No,Yes,No,No,Yes,Net Banking,0.0,0.0,10,No,N/A
+CUST00040,Female,36,Kolkata,45,Two Year,Fiber,No,Yes,No,No,No,Yes,No,Yes,Net Banking,52.11,2305.41,3,No,N/A
+CUST00041,Male,31,Pune,53,Two Year,Fiber,No,No,No,Yes,Yes,Yes,Yes,No,Credit Card,71.84,3819.78,8,No,N/A
+CUST00042,Male,59,Bengaluru,71,One Year,None,No,No,No,No,No,Yes,No,Yes,Net Banking,42.47,3049.51,2,No,N/A
+CUST00043,Female,39,Pune,25,Month-to-month,DSL,No,No,Yes,No,No,No,No,No,Net Banking,70.82,1808.43,2,No,N/A
+CUST00044,Female,20,Chennai,42,Two Year,DSL,No,No,Yes,No,Yes,Yes,No,Yes,Net Banking,118.08,4933.24,7,No,N/A
+CUST00045,Male,22,Ahmedabad,13,One Year,DSL,No,Yes,No,No,No,No,Yes,Yes,Debit Card,65.69,876.21,7,No,N/A
+CUST00046,Male,46,Bengaluru,37,Two Year,DSL,Yes,Yes,No,Yes,No,No,No,No,Debit Card,94.68,3496.56,2,No,N/A
+CUST00047,Female,57,Hyderabad,32,One Year,None,Yes,Yes,No,No,No,No,Yes,No,UPI,76.59,2480.13,3,No,N/A
+CUST00048,Female,62,Pune,70,One Year,DSL,Yes,No,No,Yes,Yes,No,No,No,UPI,64.17,4476.46,10,No,N/A
+CUST00049,Male,56,Ahmedabad,3,One Year,Fiber,No,Yes,Yes,No,Yes,Yes,Yes,No,Net Banking,85.82,234.91,10,No,N/A
+CUST00050,Male,30,Bengaluru,5,Two Year,DSL,No,Yes,No,No,No,No,Yes,No,Credit Card,93.24,425.21,5,Yes,Relocation
+CUST00051,Female,23,Kolkata,19,Month-to-month,DSL,Yes,No,No,No,No,No,Yes,Yes,Net Banking,42.56,826.27,7,No,N/A
+CUST00052,Male,58,Ahmedabad,4,Two Year,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Credit Card,114.32,440.08,10,No,N/A
+CUST00053,Male,74,Kolkata,31,Two Year,Fiber,No,No,No,Yes,No,Yes,No,No,Debit Card,33.57,1036.03,9,No,N/A
+CUST00054,Male,25,Ahmedabad,47,Month-to-month,None,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Debit Card,88.57,4167.24,6,Yes,Competitor
+CUST00055,Male,52,Pune,28,Month-to-month,Fiber,Yes,Yes,Yes,No,Yes,No,Yes,Yes,UPI,43.3,1239.84,10,Yes,Poor Service
+CUST00056,Male,46,Hyderabad,7,Two Year,Fiber,No,No,Yes,Yes,No,No,No,Yes,Net Banking,62.1,396.06,2,Yes,Competitor
+CUST00057,Female,42,Pune,57,One Year,None,No,Yes,Yes,Yes,No,No,Yes,No,UPI,28.08,1611.39,2,Yes,Support
+CUST00058,Female,27,Ahmedabad,59,Month-to-month,Fiber,Yes,Yes,No,Yes,No,Yes,Yes,No,Credit Card,92.96,5465.89,6,No,N/A
+CUST00059,Female,40,Delhi,53,Two Year,None,Yes,Yes,No,Yes,Yes,No,No,Yes,UPI,86.53,4611.12,1,No,N/A
+CUST00060,Male,56,Pune,29,Month-to-month,Fiber,No,No,No,No,Yes,Yes,Yes,No,Credit Card,104.52,3078.53,10,No,N/A
+CUST00061,Female,47,Chennai,19,Month-to-month,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,UPI,117.18,2185.6,9,No,N/A
+CUST00062,Male,40,Kolkata,57,Month-to-month,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,UPI,68.57,3902.69,5,No,N/A
+CUST00063,Male,26,Kolkata,28,Two Year,None,Yes,No,Yes,No,Yes,No,Yes,No,Credit Card,96.42,2678.7,2,Yes,Relocation
+CUST00064,Female,19,Chennai,41,Month-to-month,None,No,No,Yes,No,Yes,Yes,No,No,Credit Card,77.34,3191.89,7,No,N/A
+CUST00065,Male,75,Chennai,51,One Year,None,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card,94.58,4795.74,3,Yes,Price
+CUST00066,Female,61,Chennai,23,Two Year,DSL,Yes,No,Yes,No,No,No,No,Yes,UPI,82.79,1900.57,10,No,N/A
+CUST00067,Male,59,Delhi,65,Two Year,None,No,No,Yes,No,Yes,No,No,Yes,Credit Card,66.17,4254.81,6,No,N/A
+CUST00068,Male,20,Hyderabad,58,Two Year,DSL,No,Yes,No,No,No,No,No,No,Credit Card,109.91,6359.12,2,No,N/A
+CUST00069,Male,39,Delhi,43,Two Year,None,Yes,No,No,No,Yes,Yes,No,No,UPI,29.45,1284.19,5,No,N/A
+CUST00070,Female,19,Chennai,17,One Year,Fiber,Yes,No,No,Yes,Yes,Yes,Yes,Yes,UPI,102.9,1773.18,9,Yes,Relocation
+CUST00071,Male,56,Kolkata,13,Month-to-month,Fiber,Yes,Yes,No,Yes,No,No,Yes,No,UPI,73.98,985.6,9,Yes,Competitor
+CUST00072,Male,41,Ahmedabad,58,One Year,DSL,No,No,Yes,Yes,Yes,No,Yes,No,UPI,43.92,2593.92,8,No,N/A
+CUST00073,Male,35,Ahmedabad,71,Two Year,Fiber,No,Yes,Yes,No,No,Yes,No,Yes,Net Banking,91.14,6472.53,2,No,N/A
+CUST00074,Female,68,Bengaluru,65,Month-to-month,Fiber,No,No,Yes,No,No,Yes,Yes,Yes,UPI,58.62,3768.46,4,Yes,Price
+CUST00075,Female,33,Pune,28,Month-to-month,Fiber,Yes,No,No,Yes,Yes,No,Yes,Yes,Debit Card,74.88,2119.36,9,No,N/A
+CUST00076,Male,51,Chennai,38,Month-to-month,None,Yes,No,No,Yes,No,No,No,Yes,UPI,81.48,3070.3,7,No,N/A
+CUST00077,Female,26,Mumbai,9,One Year,None,No,Yes,No,No,Yes,Yes,Yes,No,Credit Card,93.29,852.44,10,No,N/A
+CUST00078,Female,70,Ahmedabad,38,One Year,Fiber,Yes,No,No,Yes,No,No,Yes,No,Net Banking,99.11,3804.76,6,No,N/A
+CUST00079,Female,41,Pune,52,Month-to-month,None,No,Yes,No,Yes,No,No,Yes,Yes,UPI,109.46,5680.58,3,No,N/A
+CUST00080,Male,64,Chennai,38,Two Year,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,Net Banking,80.26,3042.49,8,No,N/A
+CUST00081,Male,56,Bengaluru,5,Two Year,DSL,No,No,No,Yes,Yes,No,No,No,UPI,43.6,232.52,6,No,N/A
+CUST00082,Male,34,Pune,32,Two Year,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No,Debit Card,22.59,691.48,9,No,N/A
+CUST00083,Male,53,Pune,57,One Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,101.05,5806.61,6,No,N/A
+CUST00084,Male,37,Kolkata,47,Two Year,None,No,No,No,Yes,Yes,No,Yes,No,Net Banking,56.89,2704.2,9,Yes,Price
+CUST00085,Male,45,Mumbai,67,Month-to-month,None,Yes,No,Yes,Yes,No,Yes,No,No,Credit Card,107.8,7250.63,10,No,N/A
+CUST00086,Male,50,Bengaluru,33,Two Year,None,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Debit Card,115.64,3793.57,5,No,N/A
+CUST00087,Female,48,Hyderabad,54,Two Year,DSL,No,No,Yes,Yes,Yes,No,No,No,Net Banking,23.03,1282.52,9,No,N/A
+CUST00088,Female,43,Bengaluru,27,One Year,None,Yes,No,Yes,No,Yes,No,No,Yes,Debit Card,34.37,964.14,6,No,N/A
+CUST00089,Male,70,Chennai,13,Two Year,None,No,Yes,Yes,No,No,No,No,No,Credit Card,114.54,1525.44,7,No,N/A
+CUST00090,Male,21,Pune,12,One Year,None,No,No,Yes,Yes,No,Yes,No,No,Net Banking,70.54,893.15,4,No,N/A
+CUST00091,Female,22,Kolkata,47,Two Year,DSL,No,Yes,Yes,Yes,No,No,No,No,Debit Card,0.0,0.0,9,No,N/A
+CUST00092,Female,51,Ahmedabad,26,Month-to-month,None,Yes,No,No,Yes,No,No,No,No,UPI,60.14,1517.67,1,Yes,Competitor
+CUST00093,Male,56,Ahmedabad,61,One Year,None,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Credit Card,56.84,3484.62,7,No,N/A
+CUST00094,Male,44,Ahmedabad,25,Two Year,None,Yes,Yes,Yes,No,No,No,No,Yes,Net Banking,0.0,0.0,3,No,N/A
+CUST00095,Male,33,Pune,69,Two Year,DSL,Yes,No,No,Yes,No,No,No,No,UPI,55.43,3851.87,5,No,N/A
+CUST00096,Male,36,Mumbai,37,One Year,None,Yes,No,No,No,No,Yes,Yes,No,UPI,87.66,3231.39,7,No,N/A
+CUST00097,Male,58,Hyderabad,18,Month-to-month,Fiber,No,No,No,Yes,Yes,Yes,Yes,No,Net Banking,94.09,1667.55,1,No,N/A
+CUST00098,Male,59,Hyderabad,62,Two Year,None,Yes,Yes,No,Yes,Yes,No,No,Yes,UPI,95.59,5905.3,5,No,N/A
+CUST00099,Female,59,Ahmedabad,5,Month-to-month,None,No,No,Yes,Yes,No,Yes,No,No,Debit Card,0.0,6.8,2,No,N/A
+CUST00100,Female,50,Chennai,2,Month-to-month,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,Net Banking,99.08,204.94,4,Yes,Relocation
+CUST00101,Male,34,Chennai,31,Two Year,Fiber,Yes,Yes,No,No,Yes,No,No,Yes,UPI,46.7,1430.66,10,No,N/A
+CUST00102,Female,44,Ahmedabad,48,Two Year,None,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Debit Card,41.91,1975.04,3,No,N/A
+CUST00103,Female,23,Ahmedabad,69,Month-to-month,DSL,Yes,No,No,Yes,No,No,Yes,No,UPI,52.81,3645.92,2,No,N/A
+CUST00104,Male,75,Delhi,1,One Year,Fiber,No,No,Yes,Yes,No,No,No,No,Net Banking,77.83,32.36,6,No,N/A
+CUST00105,Female,25,Bengaluru,49,Two Year,DSL,Yes,Yes,Yes,Yes,No,No,No,No,Debit Card,116.41,5741.55,3,No,N/A
+CUST00106,Male,33,Hyderabad,32,Month-to-month,Fiber,Yes,No,Yes,Yes,Yes,No,No,Yes,Debit Card,35.51,1105.17,2,Yes,Relocation
+CUST00107,Female,33,Pune,8,Month-to-month,None,Yes,No,No,No,Yes,Yes,No,No,Credit Card,119.35,928.22,10,No,N/A
+CUST00108,Female,27,Pune,45,One Year,Fiber,No,Yes,Yes,No,Yes,No,Yes,No,Net Banking,87.13,3949.43,6,No,N/A
+CUST00109,Female,72,Chennai,72,Month-to-month,None,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Net Banking,58.84,4211.98,6,No,N/A
+CUST00110,Male,65,Delhi,27,Two Year,DSL,Yes,Yes,No,Yes,No,No,No,No,UPI,53.3,1484.8,1,No,N/A
+CUST00111,Female,66,Chennai,40,Month-to-month,DSL,No,No,Yes,Yes,Yes,Yes,No,No,UPI,71.28,2850.93,2,No,N/A
+CUST00112,Female,34,Ahmedabad,20,Two Year,None,No,No,Yes,No,Yes,Yes,No,Yes,Credit Card,43.0,866.98,4,No,N/A
+CUST00113,Female,26,Hyderabad,68,Month-to-month,None,Yes,Yes,Yes,No,No,Yes,No,No,Credit Card,0.0,34.67,1,No,N/A
+CUST00114,Male,50,Kolkata,1,Month-to-month,Fiber,Yes,Yes,Yes,Yes,No,No,No,No,Credit Card,61.13,12.8,5,Yes,Competitor
+CUST00115,Male,59,Mumbai,48,Month-to-month,DSL,No,No,No,Yes,Yes,Yes,Yes,No,Net Banking,65.9,3137.52,4,No,N/A
+CUST00116,Male,31,Ahmedabad,43,One Year,Fiber,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Net Banking,105.8,4508.94,9,No,N/A
+CUST00117,Female,42,Bengaluru,10,Two Year,None,Yes,No,Yes,Yes,No,Yes,Yes,No,Net Banking,76.4,770.67,7,No,N/A
+CUST00118,Female,53,Kolkata,42,One Year,Fiber,No,Yes,No,Yes,Yes,Yes,No,Yes,Net Banking,0.0,0.0,8,No,N/A
+CUST00119,Female,41,Pune,20,Month-to-month,Fiber,Yes,Yes,No,No,No,Yes,Yes,Yes,UPI,51.67,994.06,1,No,N/A
+CUST00120,Female,67,Delhi,71,Two Year,None,Yes,Yes,No,Yes,Yes,No,No,No,Net Banking,79.8,5648.24,7,Yes,Relocation
+CUST00121,Female,34,Hyderabad,19,Two Year,None,No,Yes,No,Yes,Yes,No,Yes,No,UPI,63.47,1198.04,8,No,N/A
+CUST00122,Male,48,Chennai,49,Month-to-month,DSL,No,No,No,Yes,No,No,No,No,UPI,52.95,2578.02,10,Yes,Competitor
+CUST00123,Male,64,Ahmedabad,15,Two Year,Fiber,No,No,Yes,No,No,Yes,No,Yes,UPI,39.98,649.43,3,No,N/A
+CUST00124,Female,52,Kolkata,20,Two Year,Fiber,No,Yes,Yes,Yes,No,Yes,Yes,No,UPI,98.91,1935.6,10,No,N/A
+CUST00125,Male,46,Chennai,56,One Year,DSL,Yes,No,Yes,No,Yes,No,No,Yes,Credit Card,29.86,1644.36,9,No,N/A
+CUST00126,Female,24,Ahmedabad,19,Two Year,None,No,No,Yes,No,Yes,Yes,Yes,No,Credit Card,54.31,1060.32,9,No,N/A
+CUST00127,Female,47,Hyderabad,22,One Year,None,Yes,Yes,No,No,Yes,Yes,No,No,Net Banking,94.05,2070.7,9,No,N/A
+CUST00128,Male,41,Chennai,1,Month-to-month,DSL,Yes,No,No,No,No,No,Yes,No,UPI,40.58,65.81,2,Yes,Support
+CUST00129,Male,61,Bengaluru,59,One Year,Fiber,Yes,No,Yes,Yes,No,Yes,No,No,Debit Card,101.37,6001.43,5,No,N/A
+CUST00130,Female,36,Bengaluru,50,Month-to-month,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Net Banking,68.67,3437.24,3,No,N/A
+CUST00131,Male,68,Hyderabad,53,One Year,Fiber,No,Yes,No,Yes,No,No,Yes,Yes,UPI,61.56,3296.67,8,No,N/A
+CUST00132,Female,52,Hyderabad,70,One Year,Fiber,Yes,No,Yes,No,No,No,Yes,No,Credit Card,56.69,4000.56,1,No,N/A
+CUST00133,Male,57,Bengaluru,31,Month-to-month,Fiber,Yes,No,No,Yes,No,No,No,No,Credit Card,93.76,2925.47,10,No,N/A
+CUST00134,Male,62,Bengaluru,18,Month-to-month,Fiber,No,Yes,No,No,Yes,No,No,No,Net Banking,98.57,1816.14,5,No,N/A
+CUST00135,Female,47,Ahmedabad,10,One Year,None,Yes,Yes,No,No,Yes,No,Yes,No,Debit Card,108.01,1039.41,9,No,N/A
+CUST00136,Female,75,Mumbai,64,Month-to-month,Fiber,No,Yes,Yes,Yes,No,No,Yes,No,Debit Card,102.83,6564.9,10,Yes,Relocation
+CUST00137,Female,23,Chennai,17,Two Year,None,Yes,Yes,No,No,Yes,No,Yes,Yes,Credit Card,50.19,890.67,5,Yes,Competitor
+CUST00138,Male,73,Kolkata,28,Two Year,Fiber,No,Yes,Yes,No,Yes,Yes,Yes,No,UPI,33.27,904.18,8,Yes,Competitor
+CUST00139,Male,22,Mumbai,39,Two Year,None,Yes,No,No,Yes,Yes,No,No,Yes,Credit Card,97.35,3821.97,3,No,N/A
+CUST00140,Female,68,Bengaluru,13,Month-to-month,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,UPI,32.32,443.16,6,No,N/A
+CUST00141,Male,51,Mumbai,7,One Year,DSL,Yes,No,No,No,Yes,No,Yes,Yes,Credit Card,99.38,669.59,7,Yes,Relocation
+CUST00142,Female,45,Kolkata,2,Month-to-month,None,Yes,No,Yes,No,Yes,Yes,Yes,No,Net Banking,23.98,4.01,7,No,N/A
+CUST00143,Female,25,Ahmedabad,9,Two Year,None,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,63.75,619.09,4,Yes,Price
+CUST00144,Female,64,Delhi,45,Month-to-month,DSL,No,No,Yes,No,Yes,No,No,No,Credit Card,98.3,4445.58,3,No,N/A
+CUST00145,Male,32,Mumbai,64,Month-to-month,Fiber,Yes,Yes,No,No,No,Yes,Yes,Yes,Net Banking,36.69,2313.89,2,No,N/A
+CUST00146,Female,25,Mumbai,29,Month-to-month,Fiber,Yes,No,Yes,No,No,No,No,Yes,Net Banking,61.63,1809.3,5,No,N/A
+CUST00147,Female,55,Ahmedabad,2,Month-to-month,None,Yes,Yes,Yes,No,Yes,Yes,No,Yes,UPI,49.16,126.77,10,No,N/A
+CUST00148,Male,44,Ahmedabad,1,Month-to-month,Fiber,No,Yes,Yes,Yes,No,No,No,Yes,Credit Card,57.63,81.44,5,Yes,Support
+CUST00149,Male,36,Pune,65,One Year,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Credit Card,102.0,6587.48,10,Yes,Poor Service
+CUST00150,Male,46,Pune,20,One Year,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Credit Card,64.96,1280.6,2,No,N/A
+CUST00151,Male,19,Kolkata,32,One Year,None,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Debit Card,59.62,1862.74,5,No,N/A
+CUST00152,Female,70,Delhi,17,Month-to-month,Fiber,Yes,No,Yes,Yes,No,Yes,Yes,No,Credit Card,60.06,1039.65,2,No,N/A
+CUST00153,Male,40,Hyderabad,22,Month-to-month,DSL,No,No,Yes,Yes,Yes,No,No,No,Net Banking,63.32,1415.48,8,Yes,Relocation
+CUST00154,Male,42,Chennai,8,One Year,None,No,No,No,No,No,Yes,Yes,No,Debit Card,58.3,458.32,9,No,N/A
+CUST00155,Male,28,Delhi,4,Month-to-month,None,Yes,No,Yes,Yes,No,No,Yes,Yes,Debit Card,97.85,347.26,8,No,N/A
+CUST00156,Female,54,Bengaluru,41,Two Year,Fiber,No,No,Yes,No,Yes,Yes,Yes,Yes,Debit Card,89.76,3721.56,1,No,N/A
+CUST00157,Male,69,Chennai,3,Month-to-month,Fiber,Yes,Yes,Yes,No,Yes,No,No,Yes,UPI,20.07,102.0,4,No,N/A
+CUST00158,Female,59,Chennai,39,Month-to-month,None,No,Yes,Yes,No,No,No,Yes,Yes,Credit Card,117.59,4609.25,7,No,N/A
+CUST00159,Male,58,Delhi,51,One Year,Fiber,No,Yes,Yes,No,No,Yes,Yes,No,Net Banking,97.08,4957.83,3,No,N/A
+CUST00160,Male,42,Ahmedabad,2,Two Year,DSL,Yes,No,No,No,No,No,Yes,No,Debit Card,44.95,46.68,5,No,N/A
+CUST00161,Male,22,Chennai,21,Month-to-month,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Net Banking,99.92,2051.66,1,No,N/A
+CUST00162,Female,60,Pune,21,One Year,Fiber,Yes,Yes,No,No,Yes,Yes,No,Yes,Net Banking,53.11,1162.75,7,No,N/A
+CUST00163,Male,58,Pune,12,Month-to-month,DSL,Yes,No,No,No,No,No,Yes,No,Debit Card,86.2,1044.42,4,Yes,Poor Service
+CUST00164,Female,32,Pune,48,Two Year,Fiber,Yes,Yes,Yes,No,No,Yes,Yes,No,Net Banking,56.94,2727.7,5,No,N/A
+CUST00165,Male,43,Mumbai,69,Two Year,None,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit Card,113.64,7848.43,4,No,N/A
+CUST00166,Female,38,Delhi,55,Month-to-month,DSL,No,No,No,No,Yes,No,Yes,No,Debit Card,88.31,4827.24,3,No,N/A
+CUST00167,Male,68,Pune,19,Two Year,DSL,No,No,No,No,No,Yes,Yes,No,Net Banking,78.27,1533.61,2,No,N/A
+CUST00168,Female,62,Hyderabad,19,Month-to-month,None,No,No,No,Yes,No,No,No,No,Net Banking,88.08,1663.69,7,No,N/A
+CUST00169,Female,35,Kolkata,13,Two Year,None,Yes,Yes,No,Yes,No,No,No,Yes,Debit Card,42.8,536.45,8,No,N/A
+CUST00170,Male,29,Hyderabad,9,Month-to-month,Fiber,Yes,Yes,No,Yes,No,Yes,No,No,Net Banking,70.68,599.68,9,No,N/A
+CUST00171,Female,29,Ahmedabad,65,Two Year,None,No,No,Yes,No,Yes,No,Yes,No,Credit Card,112.31,7318.27,4,No,N/A
+CUST00172,Male,35,Kolkata,21,Two Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,No,UPI,97.98,2029.01,4,No,N/A
+CUST00173,Female,55,Delhi,55,Month-to-month,None,No,No,No,Yes,No,Yes,No,No,UPI,105.16,5779.7,4,No,N/A
+CUST00174,Male,75,Mumbai,36,Two Year,DSL,No,Yes,Yes,No,No,No,No,No,Net Banking,91.11,3319.2,5,No,N/A
+CUST00175,Male,61,Ahmedabad,5,Two Year,DSL,No,Yes,Yes,No,Yes,No,Yes,No,Debit Card,119.48,629.0,6,No,N/A
+CUST00176,Female,41,Pune,43,Two Year,DSL,No,Yes,No,Yes,Yes,No,Yes,Yes,Net Banking,42.23,1788.22,5,No,N/A
+CUST00177,Female,44,Ahmedabad,68,Month-to-month,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Net Banking,25.41,1763.3,3,No,N/A
+CUST00178,Male,26,Kolkata,36,Two Year,DSL,No,No,No,No,Yes,Yes,Yes,No,Credit Card,97.35,3512.23,3,No,N/A
+CUST00179,Male,32,Chennai,42,One Year,Fiber,Yes,No,No,Yes,Yes,Yes,No,No,Net Banking,73.1,3021.99,1,No,N/A
+CUST00180,Female,40,Hyderabad,67,Month-to-month,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,UPI,53.78,3642.06,3,No,N/A
+CUST00181,Male,59,Mumbai,5,Month-to-month,None,Yes,No,No,No,Yes,No,No,Yes,Debit Card,84.03,447.27,10,Yes,Price
+CUST00182,Female,71,Delhi,2,Two Year,None,Yes,No,Yes,Yes,No,Yes,Yes,No,Debit Card,86.17,188.59,5,No,N/A
+CUST00183,Female,39,Hyderabad,46,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Debit Card,49.54,2232.78,8,No,N/A
+CUST00184,Male,72,Pune,59,One Year,None,No,No,Yes,Yes,Yes,Yes,Yes,Yes,UPI,49.6,2922.83,2,No,N/A
+CUST00185,Female,29,Delhi,46,One Year,DSL,No,No,No,No,No,Yes,Yes,Yes,Credit Card,115.51,5290.29,2,No,N/A
+CUST00186,Male,57,Kolkata,21,One Year,None,Yes,Yes,No,No,Yes,No,No,Yes,Credit Card,111.12,2331.79,10,No,N/A
+CUST00187,Male,60,Chennai,34,Two Year,None,Yes,No,Yes,No,No,No,Yes,Yes,Credit Card,21.24,758.99,9,No,N/A
+CUST00188,Female,33,Chennai,21,One Year,Fiber,Yes,No,No,Yes,Yes,No,No,No,Credit Card,66.93,1405.11,3,Yes,Relocation
+CUST00189,Male,53,Mumbai,64,Month-to-month,None,No,Yes,No,No,No,Yes,Yes,No,UPI,31.87,2039.42,1,Yes,Relocation
+CUST00190,Male,24,Hyderabad,72,Month-to-month,DSL,No,No,No,Yes,Yes,Yes,No,Yes,Net Banking,80.0,5781.67,6,No,N/A
+CUST00191,Male,63,Chennai,14,Month-to-month,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Net Banking,39.59,516.33,7,No,N/A
+CUST00192,Male,24,Kolkata,62,Two Year,None,No,No,No,Yes,No,No,No,No,Net Banking,98.11,6123.84,10,No,N/A
+CUST00193,Female,63,Hyderabad,18,Month-to-month,Fiber,No,No,Yes,Yes,No,Yes,No,No,Net Banking,80.25,1483.14,9,No,N/A
+CUST00194,Male,21,Mumbai,69,Month-to-month,DSL,Yes,No,No,Yes,Yes,No,Yes,Yes,UPI,104.73,7257.2,9,Yes,Relocation
+CUST00195,Female,33,Pune,58,Two Year,None,Yes,No,No,No,No,Yes,Yes,No,Debit Card,106.8,6218.35,4,No,N/A
+CUST00196,Male,67,Hyderabad,57,One Year,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,No,UPI,111.15,6356.01,6,No,N/A
+CUST00197,Male,20,Bengaluru,72,One Year,None,Yes,No,No,No,Yes,No,Yes,Yes,Credit Card,36.09,2633.08,1,No,N/A
+CUST00198,Male,60,Chennai,65,One Year,DSL,No,Yes,No,Yes,Yes,No,No,Yes,Debit Card,74.31,4820.49,6,No,N/A
+CUST00199,Female,19,Chennai,6,Two Year,None,No,No,Yes,No,Yes,No,Yes,Yes,Debit Card,52.09,354.13,2,Yes,Support
+CUST00200,Female,71,Delhi,69,Month-to-month,None,No,Yes,Yes,Yes,No,No,Yes,Yes,Credit Card,82.69,5676.69,4,No,N/A
+CUST00201,Female,58,Kolkata,7,One Year,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,45.19,273.37,4,No,N/A
+CUST00202,Male,48,Bengaluru,38,Two Year,Fiber,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card,50.14,1863.97,8,No,N/A
+CUST00203,Male,37,Hyderabad,6,Two Year,None,No,Yes,No,Yes,Yes,Yes,Yes,No,Debit Card,0.0,9.67,9,No,N/A
+CUST00204,Male,36,Delhi,15,One Year,Fiber,Yes,No,No,No,Yes,Yes,Yes,No,Credit Card,99.97,1534.78,9,No,N/A
+CUST00205,Male,54,Chennai,25,One Year,DSL,Yes,Yes,No,Yes,Yes,No,No,No,Debit Card,65.06,1638.13,5,No,N/A
+CUST00206,Male,29,Delhi,43,One Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Credit Card,66.28,2835.91,5,No,N/A
+CUST00207,Male,75,Pune,71,Month-to-month,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No,Debit Card,109.4,7771.37,3,No,N/A
+CUST00208,Female,40,Mumbai,23,Month-to-month,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,Net Banking,76.58,1798.56,3,No,N/A
+CUST00209,Female,71,Pune,61,Two Year,None,Yes,No,No,No,Yes,No,No,Yes,Net Banking,108.16,6551.75,6,Yes,Support
+CUST00210,Female,28,Hyderabad,46,Month-to-month,None,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Net Banking,54.5,2536.27,10,Yes,Poor Service
+CUST00211,Female,19,Hyderabad,43,Month-to-month,Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Net Banking,68.15,2928.33,4,No,N/A
+CUST00212,Female,73,Ahmedabad,3,Month-to-month,Fiber,No,Yes,Yes,No,Yes,No,No,Yes,Debit Card,92.8,310.53,2,Yes,Support
+CUST00213,Male,56,Delhi,49,Month-to-month,DSL,Yes,Yes,Yes,No,Yes,Yes,No,No,UPI,30.86,1482.37,9,No,N/A
+CUST00214,Female,40,Delhi,6,One Year,Fiber,No,No,Yes,Yes,No,No,No,Yes,Credit Card,62.9,421.24,8,No,N/A
+CUST00215,Female,24,Bengaluru,1,One Year,None,No,No,No,No,No,No,Yes,No,Net Banking,31.78,0.0,4,No,N/A
+CUST00216,Female,65,Bengaluru,23,Two Year,Fiber,Yes,No,Yes,Yes,Yes,No,No,Yes,Debit Card,75.49,1711.65,5,No,N/A
+CUST00217,Female,23,Delhi,50,One Year,Fiber,No,Yes,Yes,No,No,No,Yes,Yes,Net Banking,20.53,985.61,3,No,N/A
+CUST00218,Male,68,Hyderabad,57,Two Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,No,UPI,0.0,35.06,9,No,N/A
+CUST00219,Female,64,Chennai,51,One Year,DSL,Yes,Yes,No,No,Yes,No,Yes,No,Credit Card,40.03,1993.07,2,No,N/A
+CUST00220,Female,62,Ahmedabad,72,One Year,None,No,Yes,No,No,No,Yes,No,Yes,UPI,49.43,3603.66,9,No,N/A
+CUST00221,Female,51,Mumbai,9,Two Year,DSL,Yes,No,Yes,No,No,Yes,Yes,No,UPI,98.87,861.87,4,No,N/A
+CUST00222,Male,33,Hyderabad,46,One Year,Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Net Banking,77.37,3527.3,4,No,N/A
+CUST00223,Female,49,Pune,1,One Year,Fiber,No,No,Yes,Yes,Yes,No,No,Yes,UPI,74.15,28.38,8,No,N/A
+CUST00224,Female,38,Mumbai,51,Month-to-month,None,Yes,No,Yes,No,No,No,Yes,No,Debit Card,97.59,4972.81,2,No,N/A
+CUST00225,Female,62,Chennai,35,One Year,DSL,No,No,Yes,Yes,Yes,Yes,No,Yes,Net Banking,81.31,2832.44,8,No,N/A
+CUST00226,Male,44,Ahmedabad,49,Month-to-month,None,No,No,No,No,Yes,No,Yes,Yes,Credit Card,100.0,4923.85,8,No,N/A
+CUST00227,Female,41,Chennai,28,Two Year,None,No,No,Yes,No,Yes,No,Yes,Yes,UPI,67.65,1907.19,8,No,N/A
+CUST00228,Female,57,Pune,46,One Year,None,Yes,Yes,No,No,No,Yes,Yes,Yes,UPI,71.04,3295.31,8,No,N/A
+CUST00229,Female,74,Ahmedabad,30,One Year,None,No,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,85.3,2580.04,10,No,N/A
+CUST00230,Male,67,Kolkata,27,Two Year,Fiber,Yes,No,Yes,Yes,No,No,Yes,Yes,UPI,30.3,774.48,8,No,N/A
+CUST00231,Female,73,Ahmedabad,57,One Year,None,No,No,Yes,Yes,No,No,No,No,Net Banking,33.13,1922.26,1,Yes,Competitor
+CUST00232,Female,18,Mumbai,70,Two Year,Fiber,No,No,No,Yes,No,No,No,Yes,Net Banking,28.96,2007.99,7,No,N/A
+CUST00233,Female,43,Hyderabad,38,Month-to-month,None,No,No,Yes,No,Yes,No,Yes,No,UPI,99.68,3792.66,4,No,N/A
+CUST00234,Female,57,Ahmedabad,69,One Year,None,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit Card,61.29,4264.36,3,Yes,Price
+CUST00235,Female,31,Chennai,37,One Year,DSL,No,No,No,Yes,No,Yes,Yes,Yes,UPI,91.52,3408.95,4,Yes,Price
+CUST00236,Male,25,Hyderabad,51,One Year,DSL,Yes,Yes,Yes,No,Yes,Yes,No,No,UPI,67.01,3386.73,5,No,N/A
+CUST00237,Female,48,Pune,42,Month-to-month,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,UPI,92.82,3922.91,9,No,N/A
+CUST00238,Female,62,Bengaluru,16,One Year,Fiber,Yes,Yes,No,Yes,No,Yes,Yes,No,Debit Card,44.31,755.84,10,No,N/A
+CUST00239,Female,69,Ahmedabad,69,Two Year,Fiber,Yes,No,No,Yes,No,Yes,No,No,UPI,32.58,2221.29,9,No,N/A
+CUST00240,Female,35,Bengaluru,70,Month-to-month,None,Yes,No,No,No,No,No,Yes,No,Debit Card,38.98,2697.26,6,No,N/A
+CUST00241,Female,30,Ahmedabad,3,Two Year,Fiber,No,No,No,No,Yes,Yes,Yes,Yes,Debit Card,56.41,181.25,6,No,N/A
+CUST00242,Female,51,Pune,23,Month-to-month,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Yes,UPI,40.21,923.37,2,Yes,Relocation
+CUST00243,Female,51,Mumbai,72,Two Year,Fiber,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Debit Card,109.04,7883.08,1,No,N/A
+CUST00244,Female,65,Delhi,68,Two Year,None,No,No,No,Yes,Yes,Yes,No,No,Debit Card,77.0,5280.75,9,No,N/A
+CUST00245,Female,72,Chennai,69,One Year,None,No,No,Yes,Yes,No,No,No,No,Net Banking,64.3,4421.93,6,No,N/A
+CUST00246,Male,74,Pune,51,Month-to-month,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Net Banking,0.0,0.0,5,No,N/A
+CUST00247,Female,23,Kolkata,46,Two Year,Fiber,Yes,No,No,Yes,No,Yes,No,Yes,Net Banking,46.5,2177.96,4,No,N/A
+CUST00248,Male,73,Hyderabad,11,Two Year,None,Yes,No,Yes,No,Yes,No,Yes,No,Debit Card,112.19,1217.53,7,No,N/A
+CUST00249,Male,32,Kolkata,20,One Year,DSL,Yes,Yes,No,Yes,No,Yes,No,No,Credit Card,93.16,1852.49,8,No,N/A
+CUST00250,Male,49,Kolkata,52,Two Year,None,Yes,Yes,Yes,Yes,No,No,No,Yes,Credit Card,97.38,5026.8,3,No,N/A
+CUST00251,Female,28,Chennai,53,Two Year,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Credit Card,54.83,2888.06,10,No,N/A
+CUST00252,Female,46,Ahmedabad,7,Month-to-month,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card,82.1,539.47,5,Yes,Price
+CUST00253,Female,59,Mumbai,33,Month-to-month,DSL,No,No,Yes,Yes,No,No,Yes,No,Credit Card,48.4,1626.12,10,No,N/A
+CUST00254,Female,53,Mumbai,41,Month-to-month,Fiber,No,No,No,No,Yes,Yes,No,No,UPI,79.71,3226.91,4,No,N/A
+CUST00255,Female,74,Mumbai,39,Two Year,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,Net Banking,117.82,4595.11,1,No,N/A
+CUST00256,Male,31,Bengaluru,31,Two Year,None,Yes,Yes,No,Yes,No,Yes,Yes,No,Credit Card,62.65,1923.39,10,No,N/A
+CUST00257,Female,74,Kolkata,72,One Year,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,UPI,91.94,6588.09,3,No,N/A
+CUST00258,Female,26,Ahmedabad,30,Two Year,None,No,Yes,No,No,No,Yes,Yes,Yes,Debit Card,43.09,1245.31,2,No,N/A
+CUST00259,Male,66,Hyderabad,5,Month-to-month,Fiber,No,No,No,No,Yes,No,No,Yes,Net Banking,116.88,626.94,7,No,N/A
+CUST00260,Male,51,Delhi,41,One Year,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Net Banking,113.91,4677.5,9,No,N/A
+CUST00261,Male,62,Bengaluru,51,One Year,None,No,Yes,Yes,Yes,Yes,No,No,No,Net Banking,97.37,4944.46,3,No,N/A
+CUST00262,Male,63,Delhi,4,Month-to-month,Fiber,No,No,Yes,No,Yes,No,No,Yes,Debit Card,79.03,337.38,4,Yes,Competitor
+CUST00263,Male,44,Pune,43,One Year,None,No,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,85.95,3660.86,3,No,N/A
+CUST00264,Male,31,Ahmedabad,59,One Year,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Debit Card,69.86,4152.49,10,No,N/A
+CUST00265,Female,39,Delhi,8,Month-to-month,Fiber,No,Yes,Yes,No,Yes,No,No,Yes,Credit Card,23.67,224.74,10,No,N/A
+CUST00266,Male,36,Ahmedabad,39,Month-to-month,Fiber,No,No,No,Yes,Yes,Yes,Yes,Yes,Net Banking,109.75,4312.28,7,No,N/A
+CUST00267,Female,26,Ahmedabad,37,Two Year,None,No,No,Yes,Yes,No,Yes,Yes,Yes,Credit Card,104.78,3852.83,10,No,N/A
+CUST00268,Female,20,Chennai,60,One Year,None,Yes,Yes,Yes,No,No,Yes,No,No,UPI,31.79,1942.21,10,No,N/A
+CUST00269,Male,71,Bengaluru,1,Month-to-month,DSL,No,No,No,Yes,Yes,No,Yes,No,UPI,53.33,42.93,10,No,N/A
+CUST00270,Female,53,Mumbai,60,Month-to-month,None,No,No,Yes,Yes,No,Yes,No,No,Debit Card,61.4,3708.26,9,No,N/A
+CUST00271,Female,63,Mumbai,50,One Year,DSL,Yes,No,Yes,No,No,No,Yes,No,Debit Card,31.68,1612.23,5,No,N/A
+CUST00272,Male,69,Ahmedabad,15,Two Year,Fiber,Yes,No,No,No,No,Yes,Yes,Yes,Debit Card,23.74,326.31,2,No,N/A
+CUST00273,Male,39,Ahmedabad,5,Month-to-month,Fiber,No,Yes,No,Yes,No,Yes,Yes,No,UPI,91.37,459.08,1,Yes,Price
+CUST00274,Male,18,Delhi,69,Month-to-month,None,No,No,No,Yes,No,Yes,Yes,Yes,UPI,64.11,4385.36,3,No,N/A
+CUST00275,Male,45,Kolkata,44,Month-to-month,None,No,No,No,No,Yes,Yes,No,Yes,Credit Card,25.07,1055.98,1,Yes,Price
+CUST00276,Male,27,Pune,60,One Year,DSL,Yes,No,No,No,No,Yes,Yes,No,Credit Card,51.04,3076.84,8,No,N/A
+CUST00277,Male,50,Delhi,45,One Year,None,Yes,No,Yes,No,No,No,No,Yes,Debit Card,104.58,4684.33,6,No,N/A
+CUST00278,Female,68,Kolkata,71,Two Year,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes,Net Banking,68.24,4801.65,4,No,N/A
+CUST00279,Female,38,Ahmedabad,23,Two Year,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,UPI,60.58,1403.17,10,No,N/A
+CUST00280,Female,45,Chennai,50,Month-to-month,None,Yes,No,Yes,No,Yes,No,Yes,Yes,UPI,64.72,3206.57,6,No,N/A
+CUST00281,Female,63,Kolkata,15,One Year,DSL,No,Yes,Yes,No,Yes,Yes,No,No,Net Banking,106.57,1572.07,10,No,N/A
+CUST00282,Male,64,Ahmedabad,20,Two Year,DSL,Yes,Yes,Yes,No,No,No,Yes,No,Net Banking,107.27,2107.95,1,Yes,Price
+CUST00283,Female,72,Hyderabad,71,Two Year,None,No,No,No,Yes,Yes,No,No,Yes,Net Banking,58.47,4123.94,7,No,N/A
+CUST00284,Male,33,Ahmedabad,11,Two Year,None,Yes,No,Yes,No,Yes,No,No,No,UPI,93.13,1072.79,5,Yes,Price
+CUST00285,Female,64,Pune,54,Month-to-month,None,No,Yes,Yes,No,Yes,No,No,Yes,Debit Card,117.78,6339.58,3,Yes,Support
+CUST00286,Female,18,Delhi,65,Two Year,Fiber,Yes,No,No,Yes,No,Yes,No,Yes,Credit Card,98.38,6369.91,10,No,N/A
+CUST00287,Female,67,Kolkata,44,Month-to-month,None,No,Yes,Yes,No,Yes,No,Yes,Yes,Debit Card,116.73,5145.67,3,No,N/A
+CUST00288,Female,48,Pune,60,Month-to-month,None,No,Yes,No,No,No,No,Yes,Yes,UPI,50.14,3033.02,9,No,N/A
+CUST00289,Male,34,Kolkata,56,One Year,None,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Credit Card,85.21,4749.02,5,No,N/A
+CUST00290,Female,30,Mumbai,53,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Debit Card,30.39,1605.26,4,No,N/A
+CUST00291,Female,67,Kolkata,15,Two Year,None,No,No,Yes,Yes,No,Yes,No,No,UPI,45.33,676.65,2,No,N/A
+CUST00292,Female,29,Ahmedabad,8,Month-to-month,Fiber,No,Yes,Yes,No,No,Yes,Yes,Yes,Credit Card,101.28,778.03,2,Yes,Poor Service
+CUST00293,Female,35,Bengaluru,33,Two Year,DSL,No,Yes,No,No,No,No,Yes,Yes,Credit Card,21.88,721.81,1,No,N/A
+CUST00294,Female,39,Pune,50,One Year,Fiber,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card,101.8,5088.21,10,No,N/A
+CUST00295,Female,49,Delhi,50,Two Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Credit Card,49.89,2483.51,2,No,N/A
+CUST00296,Male,20,Chennai,70,Month-to-month,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Credit Card,69.97,4944.4,8,No,N/A
+CUST00297,Male,29,Mumbai,19,One Year,Fiber,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Debit Card,21.91,457.01,10,Yes,Poor Service
+CUST00298,Male,38,Hyderabad,55,Month-to-month,None,Yes,No,Yes,Yes,No,Yes,No,Yes,UPI,103.59,5721.24,7,No,N/A
+CUST00299,Female,67,Bengaluru,71,Month-to-month,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,Debit Card,44.36,3157.76,3,Yes,Support
+CUST00300,Male,56,Bengaluru,27,Two Year,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,Credit Card,47.09,1266.47,4,No,N/A
+CUST00301,Male,35,Mumbai,47,Month-to-month,Fiber,Yes,No,No,Yes,Yes,Yes,Yes,No,UPI,118.68,5578.71,8,No,N/A
+CUST00302,Male,28,Mumbai,27,One Year,None,Yes,Yes,Yes,No,No,No,Yes,No,Debit Card,53.43,1473.13,8,Yes,Price
+CUST00303,Male,22,Ahmedabad,15,Two Year,DSL,Yes,No,Yes,Yes,No,Yes,No,No,Debit Card,29.81,470.92,4,No,N/A
+CUST00304,Male,62,Mumbai,59,One Year,Fiber,Yes,No,No,No,Yes,No,Yes,No,Debit Card,83.2,4956.36,4,No,N/A
+CUST00305,Female,73,Hyderabad,22,Two Year,DSL,No,No,Yes,No,Yes,Yes,No,No,Debit Card,75.28,1629.13,7,No,N/A
+CUST00306,Male,45,Kolkata,20,One Year,None,Yes,No,No,Yes,Yes,Yes,No,Yes,Debit Card,109.83,2188.38,1,Yes,Relocation
+CUST00307,Male,63,Ahmedabad,46,Two Year,None,Yes,No,No,Yes,No,Yes,No,No,Credit Card,84.76,3858.03,8,No,N/A
+CUST00308,Male,68,Delhi,10,Two Year,DSL,Yes,No,Yes,Yes,No,No,No,Yes,UPI,89.08,893.89,5,Yes,Competitor
+CUST00309,Male,52,Delhi,47,Two Year,DSL,Yes,Yes,No,No,No,No,No,Yes,Credit Card,75.88,3523.06,4,Yes,Competitor
+CUST00310,Female,46,Chennai,48,Two Year,None,Yes,Yes,No,Yes,Yes,No,Yes,No,Credit Card,68.62,3296.43,2,No,N/A
+CUST00311,Male,36,Kolkata,14,Two Year,None,Yes,No,No,No,No,Yes,No,Yes,Credit Card,31.2,401.6,3,No,N/A
+CUST00312,Female,59,Chennai,3,One Year,None,No,No,No,Yes,No,Yes,No,Yes,Net Banking,43.23,174.43,6,No,N/A
+CUST00313,Male,57,Bengaluru,48,Two Year,None,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,UPI,96.97,4609.29,6,No,N/A
+CUST00314,Female,27,Chennai,17,One Year,None,Yes,No,Yes,Yes,No,No,Yes,No,UPI,56.97,939.01,1,No,N/A
+CUST00315,Female,48,Pune,20,Two Year,None,Yes,No,No,Yes,No,Yes,Yes,Yes,UPI,0.0,23.85,9,No,N/A
+CUST00316,Male,55,Hyderabad,4,One Year,Fiber,Yes,Yes,No,Yes,No,Yes,No,No,Credit Card,104.09,410.96,2,Yes,Support
+CUST00317,Female,40,Chennai,47,One Year,DSL,Yes,Yes,No,No,No,No,Yes,No,Net Banking,91.6,4297.96,7,No,N/A
+CUST00318,Female,22,Kolkata,18,Month-to-month,Fiber,No,No,No,Yes,No,Yes,Yes,Yes,Net Banking,79.79,1400.58,5,No,N/A
+CUST00319,Female,32,Mumbai,38,Month-to-month,Fiber,No,No,No,Yes,No,No,Yes,No,Debit Card,24.22,952.98,10,No,N/A
+CUST00320,Female,54,Kolkata,4,One Year,None,No,Yes,No,Yes,No,Yes,Yes,Yes,UPI,47.72,240.31,2,Yes,Competitor
+CUST00321,Female,21,Pune,60,One Year,None,Yes,Yes,Yes,Yes,Yes,No,No,No,UPI,33.55,1979.33,5,No,N/A
+CUST00322,Female,67,Ahmedabad,47,One Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Net Banking,78.0,3698.33,1,Yes,Competitor
+CUST00323,Female,26,Ahmedabad,10,Two Year,None,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Debit Card,33.12,282.94,6,No,N/A
+CUST00324,Female,20,Hyderabad,40,Month-to-month,Fiber,Yes,No,Yes,No,Yes,Yes,No,Yes,Credit Card,33.02,1278.66,2,Yes,Relocation
+CUST00325,Male,23,Bengaluru,16,Two Year,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,40.54,688.76,3,No,N/A
+CUST00326,Female,41,Bengaluru,37,One Year,None,Yes,Yes,No,No,No,Yes,Yes,No,Credit Card,95.4,3480.23,2,No,N/A
+CUST00327,Male,23,Chennai,41,One Year,Fiber,No,No,No,No,No,Yes,No,No,Net Banking,31.03,1235.82,6,No,N/A
+CUST00328,Female,61,Delhi,25,One Year,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,UPI,109.48,2767.24,6,No,N/A
+CUST00329,Female,64,Ahmedabad,26,One Year,None,No,No,No,No,No,No,No,Yes,Net Banking,79.5,2116.07,2,No,N/A
+CUST00330,Male,49,Mumbai,14,Month-to-month,DSL,No,Yes,No,Yes,Yes,No,No,Yes,UPI,68.93,938.1,3,Yes,Price
+CUST00331,Male,45,Delhi,64,One Year,DSL,No,No,No,No,Yes,Yes,Yes,No,Debit Card,46.17,2939.24,9,No,N/A
+CUST00332,Female,60,Ahmedabad,63,One Year,None,Yes,Yes,No,No,No,No,No,No,UPI,51.25,3217.66,2,No,N/A
+CUST00333,Male,66,Chennai,8,One Year,Fiber,No,No,No,No,No,Yes,Yes,Yes,Debit Card,0.0,0.0,6,No,N/A
+CUST00334,Male,52,Chennai,40,Month-to-month,DSL,No,No,No,Yes,No,Yes,No,No,Net Banking,111.04,4398.15,5,Yes,Poor Service
+CUST00335,Female,28,Pune,42,One Year,DSL,Yes,No,Yes,Yes,No,No,Yes,No,Net Banking,100.83,4194.87,4,No,N/A
+CUST00336,Female,22,Ahmedabad,29,One Year,Fiber,No,Yes,No,No,No,No,Yes,No,Net Banking,115.79,3379.68,10,Yes,Competitor
+CUST00337,Male,54,Ahmedabad,33,Month-to-month,None,No,No,No,Yes,Yes,No,No,Yes,Debit Card,65.32,2181.9,3,No,N/A
+CUST00338,Male,58,Hyderabad,20,One Year,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,Debit Card,96.55,1965.41,7,No,N/A
+CUST00339,Female,59,Mumbai,4,Month-to-month,Fiber,No,Yes,Yes,No,No,Yes,Yes,No,Credit Card,102.72,407.3,9,No,N/A
+CUST00340,Female,60,Delhi,8,One Year,None,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Credit Card,28.39,237.28,2,No,N/A
+CUST00341,Male,27,Delhi,41,Month-to-month,Fiber,No,No,No,No,Yes,No,No,Yes,UPI,78.43,3204.63,4,No,N/A
+CUST00342,Female,70,Pune,70,Month-to-month,None,Yes,Yes,Yes,No,No,No,No,Yes,Debit Card,88.27,6225.23,3,No,N/A
+CUST00343,Male,37,Hyderabad,57,Month-to-month,DSL,No,No,Yes,No,Yes,No,No,No,UPI,110.98,6315.16,5,No,N/A
+CUST00344,Female,44,Chennai,55,One Year,None,Yes,Yes,Yes,No,Yes,Yes,No,Yes,UPI,102.02,5643.54,5,No,N/A
+CUST00345,Female,68,Chennai,41,One Year,DSL,Yes,No,Yes,No,No,Yes,Yes,No,UPI,31.08,1249.24,3,No,N/A
+CUST00346,Male,53,Hyderabad,24,Month-to-month,DSL,Yes,No,Yes,Yes,No,No,No,Yes,Credit Card,57.73,1418.99,10,No,N/A
+CUST00347,Female,70,Ahmedabad,48,Month-to-month,Fiber,Yes,Yes,No,No,No,No,Yes,No,Debit Card,76.72,3633.97,9,No,N/A
+CUST00348,Male,19,Pune,28,One Year,Fiber,No,Yes,No,No,Yes,Yes,No,Yes,UPI,48.3,1370.12,7,No,N/A
+CUST00349,Male,53,Mumbai,51,Month-to-month,DSL,Yes,No,No,Yes,Yes,No,No,No,Net Banking,91.33,4678.68,10,No,N/A
+CUST00350,Female,39,Ahmedabad,48,Month-to-month,Fiber,No,No,Yes,No,Yes,No,Yes,Yes,Net Banking,109.22,5196.67,3,No,N/A
+CUST00351,Female,51,Chennai,36,One Year,Fiber,No,No,Yes,No,Yes,Yes,Yes,Yes,Debit Card,112.62,4032.61,5,No,N/A
+CUST00352,Female,20,Ahmedabad,24,One Year,None,No,No,No,Yes,Yes,Yes,No,Yes,Debit Card,0.0,0.0,8,No,N/A
+CUST00353,Male,55,Mumbai,37,Two Year,None,Yes,No,Yes,Yes,No,Yes,No,Yes,UPI,36.83,1363.58,5,No,N/A
+CUST00354,Male,47,Ahmedabad,16,One Year,None,No,Yes,No,Yes,No,No,Yes,Yes,Credit Card,79.03,1309.6,6,No,N/A
+CUST00355,Female,34,Bengaluru,37,Month-to-month,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Credit Card,25.55,902.42,10,No,N/A
+CUST00356,Male,40,Delhi,39,One Year,None,Yes,No,No,No,No,No,No,Yes,Net Banking,63.24,2497.0,5,No,N/A
+CUST00357,Female,61,Hyderabad,48,Two Year,None,Yes,No,Yes,No,No,No,Yes,No,UPI,63.41,3036.28,1,No,N/A
+CUST00358,Female,54,Mumbai,20,Two Year,Fiber,Yes,Yes,No,No,Yes,No,No,No,UPI,88.43,1748.64,4,No,N/A
+CUST00359,Male,71,Kolkata,11,Month-to-month,Fiber,No,No,No,No,No,No,No,Yes,Debit Card,21.63,261.98,8,No,N/A
+CUST00360,Male,18,Kolkata,24,Month-to-month,Fiber,Yes,No,No,No,No,No,No,No,UPI,118.22,2813.21,2,No,N/A
+CUST00361,Male,72,Mumbai,12,Month-to-month,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Net Banking,21.39,217.87,1,No,N/A
+CUST00362,Female,49,Ahmedabad,55,Month-to-month,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Net Banking,0.0,0.0,3,No,N/A
+CUST00363,Male,49,Kolkata,54,One Year,None,No,Yes,Yes,Yes,No,No,Yes,No,Net Banking,93.71,5069.92,9,No,N/A
+CUST00364,Male,28,Pune,61,Two Year,Fiber,No,No,No,Yes,Yes,No,No,Yes,UPI,82.27,5033.09,8,No,N/A
+CUST00365,Male,57,Hyderabad,50,One Year,None,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Net Banking,103.31,5182.81,6,No,N/A
+CUST00366,Female,40,Bengaluru,64,Month-to-month,None,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Net Banking,40.94,2574.86,1,No,N/A
+CUST00367,Male,72,Delhi,34,Two Year,Fiber,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Credit Card,98.49,3375.6,9,No,N/A
+CUST00368,Female,64,Delhi,27,Month-to-month,None,No,No,Yes,Yes,Yes,No,No,Yes,Debit Card,35.7,943.11,8,No,N/A
+CUST00369,Female,41,Hyderabad,61,Month-to-month,None,No,Yes,Yes,No,No,No,No,No,Credit Card,70.5,4259.02,6,No,N/A
+CUST00370,Female,67,Bengaluru,57,One Year,Fiber,No,Yes,Yes,Yes,No,No,No,No,UPI,20.99,1227.05,2,Yes,Competitor
+CUST00371,Male,62,Kolkata,45,One Year,None,Yes,No,No,No,Yes,No,Yes,Yes,UPI,0.0,0.0,9,No,N/A
+CUST00372,Male,50,Pune,50,Two Year,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes,Credit Card,94.01,4663.1,9,No,N/A
+CUST00373,Male,47,Chennai,48,Month-to-month,None,Yes,No,No,No,Yes,No,Yes,Yes,UPI,70.75,3358.38,2,No,N/A
+CUST00374,Female,23,Delhi,67,Month-to-month,DSL,Yes,No,Yes,No,Yes,No,No,No,UPI,102.28,6838.89,2,Yes,Relocation
+CUST00375,Female,70,Bengaluru,64,Month-to-month,None,Yes,No,No,Yes,Yes,Yes,No,No,Credit Card,119.65,7676.5,8,No,N/A
+CUST00376,Male,25,Chennai,21,Two Year,DSL,Yes,Yes,Yes,No,No,No,No,No,Net Banking,56.93,1240.71,10,No,N/A
+CUST00377,Female,31,Bengaluru,4,Two Year,DSL,Yes,Yes,No,Yes,Yes,No,No,No,Net Banking,34.21,145.8,1,No,N/A
+CUST00378,Female,66,Ahmedabad,44,Two Year,DSL,Yes,No,Yes,No,No,Yes,No,No,Credit Card,67.52,2992.88,10,Yes,Poor Service
+CUST00379,Female,53,Delhi,57,Two Year,None,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card,84.59,4858.23,1,No,N/A
+CUST00380,Female,43,Mumbai,36,One Year,Fiber,No,No,Yes,No,Yes,No,No,No,Credit Card,44.53,1623.64,10,No,N/A
+CUST00381,Male,27,Pune,15,One Year,None,Yes,Yes,No,Yes,Yes,Yes,No,No,Credit Card,74.18,1091.24,3,No,N/A
+CUST00382,Male,49,Kolkata,41,Month-to-month,DSL,Yes,No,No,No,Yes,No,Yes,No,Debit Card,109.3,4457.09,2,Yes,Poor Service
+CUST00383,Male,37,Kolkata,3,One Year,Fiber,Yes,Yes,No,Yes,Yes,No,No,Yes,Credit Card,116.35,366.56,4,No,N/A
+CUST00384,Female,56,Pune,60,Two Year,DSL,No,Yes,No,Yes,Yes,Yes,No,Yes,Net Banking,82.07,4939.51,3,Yes,Relocation
+CUST00385,Female,74,Chennai,16,Two Year,DSL,No,No,Yes,No,No,Yes,No,No,Credit Card,92.51,1530.04,7,No,N/A
+CUST00386,Female,53,Ahmedabad,18,One Year,None,Yes,Yes,Yes,No,Yes,No,No,No,Net Banking,20.2,361.25,1,No,N/A
+CUST00387,Male,46,Mumbai,23,Month-to-month,None,Yes,No,No,Yes,Yes,No,Yes,Yes,Net Banking,101.19,2375.75,2,No,N/A
+CUST00388,Male,70,Kolkata,47,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,UPI,0.0,0.0,10,No,N/A
+CUST00389,Female,61,Ahmedabad,30,Month-to-month,DSL,Yes,No,No,No,No,Yes,No,No,UPI,92.89,2764.13,1,No,N/A
+CUST00390,Female,38,Mumbai,67,One Year,Fiber,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Debit Card,108.38,7233.91,5,No,N/A
+CUST00391,Male,55,Chennai,43,One Year,Fiber,Yes,No,Yes,No,Yes,No,Yes,Yes,Net Banking,82.6,3511.47,8,No,N/A
+CUST00392,Female,38,Delhi,13,Month-to-month,Fiber,No,Yes,No,No,Yes,Yes,Yes,Yes,UPI,77.89,971.12,1,No,N/A
+CUST00393,Male,47,Kolkata,49,One Year,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,Credit Card,81.73,3995.88,10,No,N/A
+CUST00394,Female,48,Ahmedabad,9,Month-to-month,Fiber,Yes,Yes,Yes,Yes,No,No,No,No,Debit Card,104.08,977.16,3,No,N/A
+CUST00395,Male,21,Hyderabad,19,Two Year,None,Yes,No,No,Yes,Yes,Yes,Yes,No,Debit Card,80.33,1505.38,1,No,N/A
+CUST00396,Female,57,Pune,61,One Year,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Debit Card,118.19,7219.57,6,No,N/A
+CUST00397,Female,31,Kolkata,60,Month-to-month,Fiber,No,Yes,Yes,No,Yes,Yes,Yes,No,Net Banking,43.9,2657.46,6,No,N/A
+CUST00398,Female,29,Hyderabad,25,One Year,None,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,111.27,2767.74,1,No,N/A
+CUST00399,Female,47,Hyderabad,3,One Year,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,33.72,116.65,2,Yes,Poor Service
+CUST00400,Male,72,Pune,48,Month-to-month,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Credit Card,62.95,3035.21,1,No,N/A
+CUST00401,Female,29,Chennai,22,Two Year,DSL,No,No,No,No,No,Yes,Yes,Yes,Debit Card,95.13,2107.37,9,No,N/A
+CUST00402,Female,34,Delhi,58,Month-to-month,Fiber,No,No,No,Yes,Yes,No,No,No,Net Banking,59.59,3436.82,7,No,N/A
+CUST00403,Male,46,Hyderabad,60,One Year,None,Yes,No,Yes,No,Yes,No,Yes,Yes,Credit Card,56.75,3404.75,5,No,N/A
+CUST00404,Female,30,Bengaluru,10,Two Year,None,No,Yes,No,No,No,No,No,Yes,Net Banking,74.6,729.38,6,No,N/A
+CUST00405,Male,48,Hyderabad,66,Two Year,None,No,No,No,Yes,No,Yes,No,No,Debit Card,115.15,7636.45,4,No,N/A
+CUST00406,Female,65,Mumbai,57,One Year,None,No,No,Yes,No,No,No,No,No,Credit Card,75.84,4310.35,10,No,N/A
+CUST00407,Female,42,Hyderabad,5,One Year,Fiber,No,Yes,No,Yes,No,No,No,Yes,Debit Card,35.37,222.11,6,No,N/A
+CUST00408,Male,30,Delhi,14,One Year,DSL,Yes,Yes,No,Yes,No,Yes,No,Yes,Debit Card,37.76,561.29,10,No,N/A
+CUST00409,Female,65,Delhi,42,One Year,Fiber,Yes,Yes,No,No,No,Yes,No,Yes,Net Banking,61.09,2531.48,2,Yes,Relocation
+CUST00410,Male,51,Chennai,36,Two Year,DSL,No,No,Yes,Yes,No,No,No,No,Net Banking,119.11,4282.53,7,No,N/A
+CUST00411,Male,62,Delhi,23,One Year,None,Yes,Yes,Yes,No,No,Yes,Yes,No,Net Banking,37.96,884.85,7,No,N/A
+CUST00412,Female,44,Ahmedabad,71,Month-to-month,DSL,Yes,Yes,No,Yes,Yes,No,No,No,Net Banking,56.87,4063.31,9,No,N/A
+CUST00413,Female,49,Ahmedabad,25,Month-to-month,Fiber,Yes,No,Yes,No,No,Yes,Yes,Yes,Credit Card,21.07,488.22,3,No,N/A
+CUST00414,Male,61,Pune,23,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Net Banking,73.47,1678.89,2,No,N/A
+CUST00415,Male,41,Hyderabad,40,Month-to-month,Fiber,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Credit Card,79.82,3147.67,7,No,N/A
+CUST00416,Male,57,Hyderabad,22,Two Year,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Credit Card,24.4,538.05,6,No,N/A
+CUST00417,Female,20,Delhi,52,Month-to-month,DSL,No,No,Yes,Yes,No,Yes,No,No,Debit Card,21.2,1073.68,4,Yes,Competitor
+CUST00418,Female,42,Hyderabad,43,Two Year,None,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Credit Card,96.17,4154.07,8,Yes,Price
+CUST00419,Male,33,Ahmedabad,8,Two Year,DSL,Yes,No,No,Yes,No,No,Yes,Yes,UPI,69.87,529.16,7,No,N/A
+CUST00420,Male,56,Kolkata,44,Two Year,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Debit Card,73.93,3293.58,4,No,N/A
+CUST00421,Male,45,Ahmedabad,27,One Year,Fiber,Yes,Yes,No,Yes,Yes,No,No,No,Debit Card,37.37,1013.87,4,No,N/A
+CUST00422,Male,48,Ahmedabad,35,One Year,None,No,Yes,No,Yes,No,No,Yes,No,Debit Card,68.12,2429.3,6,No,N/A
+CUST00423,Female,22,Chennai,71,Month-to-month,None,No,Yes,Yes,Yes,Yes,Yes,No,No,Net Banking,45.73,3243.2,8,No,N/A
+CUST00424,Male,44,Mumbai,54,Month-to-month,DSL,Yes,Yes,No,No,No,No,No,Yes,Net Banking,117.05,6308.01,8,No,N/A
+CUST00425,Male,62,Bengaluru,55,One Year,None,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Net Banking,44.24,2386.65,6,No,N/A
+CUST00426,Male,71,Kolkata,51,One Year,None,No,No,No,No,Yes,Yes,No,Yes,UPI,117.41,5945.94,4,No,N/A
+CUST00427,Male,24,Delhi,27,Two Year,DSL,No,No,No,Yes,Yes,No,Yes,Yes,Debit Card,59.8,1595.41,3,No,N/A
+CUST00428,Male,65,Bengaluru,63,Month-to-month,DSL,No,No,Yes,Yes,Yes,No,Yes,No,Credit Card,114.85,7230.62,4,No,N/A
+CUST00429,Male,18,Mumbai,36,One Year,Fiber,Yes,Yes,Yes,Yes,No,No,No,No,UPI,22.97,800.4,8,No,N/A
+CUST00430,Female,60,Kolkata,55,One Year,None,Yes,No,No,Yes,Yes,No,No,Yes,Credit Card,88.19,4834.76,6,No,N/A
+CUST00431,Female,50,Kolkata,16,Two Year,Fiber,Yes,No,Yes,No,Yes,No,No,Yes,Net Banking,47.95,787.13,4,No,N/A
+CUST00432,Male,64,Kolkata,52,One Year,None,Yes,Yes,Yes,Yes,No,Yes,No,No,Debit Card,99.4,5153.63,8,No,N/A
+CUST00433,Male,24,Kolkata,58,Two Year,Fiber,Yes,No,No,No,Yes,No,No,Yes,Debit Card,68.22,3960.83,4,No,N/A
+CUST00434,Male,59,Chennai,69,One Year,None,No,No,Yes,Yes,No,Yes,No,Yes,Credit Card,69.2,4804.35,6,No,N/A
+CUST00435,Male,72,Chennai,12,One Year,None,Yes,No,Yes,Yes,No,No,No,No,Debit Card,79.22,919.46,2,No,N/A
+CUST00436,Female,38,Bengaluru,67,One Year,Fiber,No,No,Yes,No,Yes,Yes,No,No,Credit Card,79.08,5259.02,1,No,N/A
+CUST00437,Female,21,Chennai,36,Month-to-month,None,Yes,Yes,Yes,Yes,No,No,No,Yes,Credit Card,90.65,3261.23,4,No,N/A
+CUST00438,Female,22,Pune,71,One Year,None,Yes,No,Yes,Yes,No,Yes,No,No,Debit Card,62.24,4416.38,6,No,N/A
+CUST00439,Male,65,Mumbai,18,One Year,None,Yes,Yes,No,No,Yes,Yes,Yes,No,Net Banking,68.24,1268.04,4,No,N/A
+CUST00440,Male,58,Kolkata,23,Month-to-month,Fiber,Yes,Yes,No,No,No,Yes,No,Yes,Net Banking,31.73,731.33,6,No,N/A
+CUST00441,Female,59,Hyderabad,49,Month-to-month,None,No,No,Yes,Yes,No,No,No,No,Debit Card,85.32,4167.41,2,Yes,Price
+CUST00442,Male,43,Ahmedabad,13,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Credit Card,91.38,1224.16,9,No,N/A
+CUST00443,Male,23,Delhi,6,Two Year,DSL,No,Yes,No,Yes,Yes,No,Yes,No,Net Banking,40.62,209.84,9,No,N/A
+CUST00444,Male,62,Delhi,18,Two Year,Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,UPI,89.51,1613.45,6,No,N/A
+CUST00445,Male,43,Ahmedabad,36,Month-to-month,DSL,No,Yes,Yes,Yes,No,Yes,No,Yes,Net Banking,82.23,2917.72,5,No,N/A
+CUST00446,Female,25,Delhi,20,Two Year,None,No,Yes,No,Yes,No,No,No,Yes,Debit Card,98.78,1963.49,10,No,N/A
+CUST00447,Male,68,Delhi,36,Month-to-month,None,No,No,Yes,No,No,No,Yes,Yes,Debit Card,0.0,0.0,4,No,N/A
+CUST00448,Female,48,Bengaluru,41,One Year,Fiber,Yes,Yes,Yes,No,No,Yes,No,Yes,Net Banking,58.96,2401.88,9,No,N/A
+CUST00449,Female,51,Hyderabad,59,One Year,None,Yes,No,No,No,Yes,Yes,Yes,Yes,Credit Card,118.62,7028.43,9,No,N/A
+CUST00450,Male,45,Bengaluru,22,One Year,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,Credit Card,28.46,604.71,8,No,N/A
+CUST00451,Male,22,Chennai,58,Month-to-month,None,No,Yes,No,No,No,Yes,No,Yes,UPI,87.45,5110.29,9,No,N/A
+CUST00452,Female,34,Hyderabad,32,Month-to-month,None,No,Yes,No,Yes,No,No,Yes,No,Credit Card,105.08,3398.34,5,No,N/A
+CUST00453,Male,24,Kolkata,59,One Year,Fiber,Yes,Yes,No,Yes,No,Yes,Yes,No,Debit Card,55.39,3218.53,3,No,N/A
+CUST00454,Female,24,Ahmedabad,61,Two Year,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Debit Card,49.93,3038.56,3,No,N/A
+CUST00455,Male,60,Hyderabad,37,One Year,None,No,Yes,No,No,No,Yes,No,No,Net Banking,0.0,0.0,6,No,N/A
+CUST00456,Male,67,Hyderabad,17,Month-to-month,None,No,No,Yes,No,No,No,No,No,Credit Card,30.79,475.55,3,No,N/A
+CUST00457,Male,73,Pune,55,Two Year,Fiber,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit Card,35.25,1939.87,4,No,N/A
+CUST00458,Male,23,Mumbai,17,One Year,DSL,No,Yes,Yes,No,No,No,Yes,No,Credit Card,47.39,774.85,3,No,N/A
+CUST00459,Male,29,Mumbai,39,Month-to-month,Fiber,No,Yes,No,No,No,Yes,No,Yes,UPI,56.36,2242.34,7,No,N/A
+CUST00460,Male,39,Chennai,63,Two Year,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,Credit Card,50.44,3137.41,1,No,N/A
+CUST00461,Male,22,Chennai,6,One Year,None,No,Yes,Yes,Yes,Yes,Yes,No,No,UPI,111.22,682.76,4,Yes,Relocation
+CUST00462,Male,28,Pune,47,Two Year,Fiber,No,Yes,Yes,Yes,No,No,Yes,Yes,Net Banking,91.73,4352.39,2,No,N/A
+CUST00463,Male,28,Hyderabad,66,Two Year,None,Yes,No,No,No,Yes,No,No,Yes,Debit Card,97.94,6454.12,5,No,N/A
+CUST00464,Female,26,Pune,29,Month-to-month,None,Yes,Yes,Yes,Yes,No,No,No,Yes,UPI,0.0,0.0,1,No,N/A
+CUST00465,Male,70,Chennai,18,Month-to-month,None,No,Yes,No,Yes,Yes,No,No,Yes,Net Banking,81.15,1443.16,1,No,N/A
+CUST00466,Male,64,Kolkata,29,One Year,Fiber,No,Yes,No,Yes,No,Yes,Yes,Yes,Net Banking,40.39,1184.29,7,No,N/A
+CUST00467,Male,22,Bengaluru,24,Month-to-month,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No,Net Banking,22.1,496.69,3,No,N/A
+CUST00468,Female,27,Mumbai,3,Month-to-month,Fiber,No,Yes,Yes,Yes,No,No,Yes,No,UPI,21.36,97.13,1,Yes,Price
+CUST00469,Male,52,Pune,62,Month-to-month,None,No,Yes,Yes,Yes,Yes,Yes,No,No,Debit Card,25.59,1605.78,9,Yes,Price
+CUST00470,Male,49,Bengaluru,46,Month-to-month,Fiber,Yes,No,No,Yes,No,Yes,No,Yes,Credit Card,42.59,1997.04,7,No,N/A
+CUST00471,Female,57,Pune,20,One Year,Fiber,No,No,No,No,Yes,Yes,Yes,Yes,UPI,73.05,1470.96,7,No,N/A
+CUST00472,Male,54,Kolkata,19,Two Year,DSL,Yes,Yes,No,Yes,Yes,No,No,No,Net Banking,92.13,1779.02,8,No,N/A
+CUST00473,Female,44,Ahmedabad,55,Two Year,None,No,Yes,No,Yes,No,Yes,Yes,Yes,UPI,117.28,6460.57,6,Yes,Poor Service
+CUST00474,Male,21,Chennai,1,One Year,Fiber,No,No,Yes,No,Yes,Yes,Yes,Yes,Debit Card,105.06,91.3,8,No,N/A
+CUST00475,Female,41,Mumbai,16,Two Year,Fiber,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Debit Card,90.4,1434.15,1,No,N/A
+CUST00476,Female,65,Bengaluru,10,Two Year,None,No,No,No,No,No,Yes,No,Yes,Debit Card,0.0,33.11,7,Yes,Poor Service
+CUST00477,Female,71,Kolkata,8,Two Year,DSL,No,No,Yes,No,Yes,No,Yes,No,Debit Card,23.21,210.79,9,No,N/A
+CUST00478,Male,70,Ahmedabad,28,One Year,DSL,No,No,Yes,Yes,No,No,Yes,No,Credit Card,25.6,706.03,9,No,N/A
+CUST00479,Male,52,Delhi,14,Month-to-month,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Credit Card,80.32,1159.14,1,No,N/A
+CUST00480,Female,43,Hyderabad,62,One Year,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,Net Banking,0.0,0.0,5,Yes,Competitor
+CUST00481,Male,74,Delhi,62,Two Year,Fiber,Yes,Yes,Yes,No,No,Yes,No,No,UPI,105.2,6501.41,3,No,N/A
+CUST00482,Male,27,Ahmedabad,56,Month-to-month,Fiber,Yes,No,Yes,No,Yes,No,No,Yes,UPI,0.0,21.28,7,No,N/A
+CUST00483,Female,34,Ahmedabad,21,One Year,DSL,Yes,Yes,No,Yes,No,No,No,No,Debit Card,77.65,1615.99,2,No,N/A
+CUST00484,Female,34,Mumbai,57,Two Year,None,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Net Banking,104.48,6000.56,6,Yes,Relocation
+CUST00485,Female,24,Delhi,10,Month-to-month,None,Yes,No,No,Yes,No,No,Yes,No,UPI,107.42,1091.12,6,No,N/A
+CUST00486,Female,27,Hyderabad,63,One Year,None,Yes,No,Yes,No,No,No,Yes,Yes,Debit Card,94.13,5891.62,8,Yes,Poor Service
+CUST00487,Female,43,Delhi,3,One Year,None,No,No,Yes,No,Yes,Yes,Yes,No,UPI,88.37,242.09,3,Yes,Price
+CUST00488,Male,62,Kolkata,39,One Year,None,No,Yes,Yes,Yes,Yes,No,No,Yes,Debit Card,54.93,2134.18,8,No,N/A
+CUST00489,Male,46,Bengaluru,59,Two Year,DSL,Yes,Yes,Yes,Yes,No,Yes,No,Yes,UPI,69.94,4108.1,7,No,N/A
+CUST00490,Female,19,Pune,27,One Year,None,Yes,No,No,No,No,No,No,No,UPI,117.17,3171.27,1,No,N/A
+CUST00491,Female,42,Pune,15,Two Year,None,No,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,65.88,975.51,9,No,N/A
+CUST00492,Male,60,Pune,64,One Year,Fiber,Yes,No,No,Yes,Yes,No,Yes,No,Net Banking,82.38,5276.79,8,No,N/A
+CUST00493,Male,50,Pune,53,One Year,None,No,No,No,Yes,Yes,No,Yes,Yes,Credit Card,84.49,4506.43,7,Yes,Competitor
+CUST00494,Male,54,Kolkata,20,Month-to-month,None,No,Yes,No,Yes,No,Yes,No,Yes,Net Banking,104.08,2083.5,10,No,N/A
+CUST00495,Female,71,Pune,41,Two Year,Fiber,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Credit Card,63.74,2573.3,3,No,N/A
+CUST00496,Female,29,Hyderabad,70,Two Year,Fiber,No,Yes,Yes,No,No,Yes,No,Yes,Debit Card,27.88,1939.84,3,No,N/A
+CUST00497,Male,24,Bengaluru,3,One Year,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Net Banking,77.94,194.16,8,No,N/A
+CUST00498,Female,58,Ahmedabad,3,Month-to-month,Fiber,No,Yes,Yes,Yes,Yes,No,No,No,Credit Card,68.65,218.52,4,No,N/A
+CUST00499,Male,31,Chennai,21,Month-to-month,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,No,Net Banking,45.45,916.61,10,Yes,Price
+CUST00500,Female,45,Kolkata,26,Month-to-month,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,Net Banking,54.86,1431.51,5,No,N/A
+CUST00501,Female,45,Hyderabad,56,Two Year,DSL,No,Yes,No,Yes,Yes,No,No,No,UPI,62.37,3517.43,6,No,N/A
+CUST00502,Male,40,Hyderabad,51,Month-to-month,Fiber,No,No,Yes,No,Yes,Yes,No,Yes,UPI,0.0,0.0,6,No,N/A
+CUST00503,Male,51,Hyderabad,28,Month-to-month,None,No,Yes,No,No,No,No,Yes,Yes,Credit Card,99.52,2826.43,9,Yes,Competitor
+CUST00504,Female,55,Kolkata,64,Month-to-month,None,Yes,No,Yes,Yes,No,No,Yes,No,Credit Card,119.03,7610.04,2,No,N/A
+CUST00505,Female,64,Pune,69,One Year,DSL,No,No,Yes,No,No,Yes,No,No,Net Banking,23.91,1664.27,2,No,N/A
+CUST00506,Male,19,Hyderabad,64,Month-to-month,Fiber,Yes,Yes,No,No,Yes,Yes,Yes,Yes,UPI,116.72,7432.22,6,No,N/A
+CUST00507,Male,25,Mumbai,69,One Year,Fiber,No,No,No,No,Yes,Yes,No,Yes,Debit Card,113.41,7862.09,5,No,N/A
+CUST00508,Male,51,Hyderabad,41,Two Year,DSL,No,No,No,No,Yes,Yes,No,No,Credit Card,95.3,3946.08,7,No,N/A
+CUST00509,Male,49,Mumbai,46,Month-to-month,Fiber,Yes,No,No,Yes,No,Yes,No,Yes,UPI,107.29,4951.29,4,No,N/A
+CUST00510,Male,41,Kolkata,40,One Year,None,Yes,No,Yes,Yes,No,No,Yes,No,Credit Card,85.53,3455.98,2,No,N/A
+CUST00511,Male,35,Mumbai,19,One Year,None,No,No,No,Yes,Yes,No,No,Yes,Debit Card,30.72,544.7,1,No,N/A
+CUST00512,Male,59,Kolkata,51,Two Year,DSL,Yes,No,Yes,No,Yes,No,No,No,Credit Card,70.79,3565.61,5,No,N/A
+CUST00513,Male,22,Delhi,7,One Year,Fiber,No,No,No,Yes,Yes,No,No,Yes,Debit Card,115.9,783.26,1,No,N/A
+CUST00514,Female,65,Pune,27,Two Year,Fiber,Yes,No,Yes,Yes,Yes,No,No,Yes,Credit Card,48.8,1327.23,1,Yes,Support
+CUST00515,Male,56,Chennai,61,One Year,None,Yes,No,Yes,No,Yes,Yes,Yes,No,Debit Card,22.08,1394.32,2,No,N/A
+CUST00516,Female,46,Ahmedabad,68,Two Year,DSL,No,No,No,No,No,Yes,No,No,UPI,95.5,6521.53,2,No,N/A
+CUST00517,Female,61,Mumbai,67,Month-to-month,DSL,Yes,Yes,No,No,Yes,Yes,No,No,Debit Card,105.7,7122.12,10,No,N/A
+CUST00518,Female,74,Bengaluru,12,One Year,None,No,No,No,No,No,No,Yes,Yes,UPI,115.48,1399.63,5,No,N/A
+CUST00519,Male,49,Bengaluru,16,One Year,None,Yes,No,Yes,No,No,No,Yes,No,Credit Card,65.5,1094.82,6,No,N/A
+CUST00520,Female,18,Kolkata,59,One Year,None,Yes,Yes,No,Yes,No,No,Yes,Yes,UPI,0.0,0.0,10,Yes,Relocation
+CUST00521,Male,48,Chennai,19,Month-to-month,None,No,No,No,Yes,No,No,No,Yes,Net Banking,39.67,762.25,2,No,N/A
+CUST00522,Male,37,Pune,42,Month-to-month,DSL,No,Yes,No,No,Yes,Yes,No,No,UPI,33.92,1451.41,5,Yes,Support
+CUST00523,Male,67,Kolkata,60,Month-to-month,Fiber,No,Yes,No,Yes,No,Yes,No,Yes,Net Banking,66.66,4045.74,8,Yes,Support
+CUST00524,Male,39,Delhi,1,One Year,None,No,No,Yes,Yes,Yes,Yes,Yes,No,Debit Card,96.3,98.1,1,Yes,Competitor
+CUST00525,Male,69,Ahmedabad,29,Two Year,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,83.97,2400.61,5,No,N/A
+CUST00526,Female,43,Ahmedabad,14,Month-to-month,Fiber,No,No,Yes,No,Yes,Yes,Yes,Yes,Debit Card,103.27,1440.16,1,No,N/A
+CUST00527,Male,55,Ahmedabad,22,One Year,None,No,No,No,Yes,No,No,No,Yes,Credit Card,89.96,1949.16,8,No,N/A
+CUST00528,Female,20,Chennai,37,Month-to-month,DSL,No,No,Yes,Yes,No,Yes,No,No,Credit Card,76.42,2778.64,5,Yes,Support
+CUST00529,Male,35,Pune,23,One Year,Fiber,No,No,No,Yes,No,Yes,No,No,Net Banking,55.19,1291.29,6,No,N/A
+CUST00530,Female,61,Ahmedabad,9,One Year,Fiber,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card,0.0,35.2,3,Yes,Price
+CUST00531,Male,29,Chennai,5,Month-to-month,None,No,No,Yes,Yes,Yes,No,No,No,UPI,27.29,162.79,10,No,N/A
+CUST00532,Male,31,Mumbai,29,Month-to-month,Fiber,No,No,Yes,No,Yes,No,Yes,Yes,Net Banking,36.21,1081.47,4,Yes,Price
+CUST00533,Female,45,Kolkata,65,Month-to-month,None,Yes,Yes,No,Yes,Yes,No,Yes,Yes,UPI,81.85,5326.12,3,No,N/A
+CUST00534,Male,73,Bengaluru,3,One Year,Fiber,Yes,No,No,Yes,Yes,No,No,Yes,Credit Card,114.06,384.41,5,Yes,Competitor
+CUST00535,Female,66,Mumbai,44,Month-to-month,DSL,Yes,Yes,No,Yes,No,Yes,No,Yes,UPI,40.05,1801.0,1,Yes,Support
+CUST00536,Female,68,Hyderabad,6,Month-to-month,Fiber,Yes,Yes,No,Yes,No,Yes,No,No,Debit Card,69.66,390.48,6,No,N/A
+CUST00537,Female,40,Hyderabad,56,One Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Credit Card,74.95,4158.76,2,No,N/A
+CUST00538,Female,40,Hyderabad,32,One Year,Fiber,No,No,Yes,Yes,Yes,No,Yes,No,UPI,27.66,847.79,3,No,N/A
+CUST00539,Male,51,Pune,29,One Year,None,Yes,Yes,No,No,No,No,Yes,Yes,Debit Card,50.27,1444.52,9,No,N/A
+CUST00540,Male,20,Hyderabad,67,Two Year,DSL,No,Yes,Yes,No,Yes,No,No,No,UPI,94.19,6281.81,6,No,N/A
+CUST00541,Male,32,Hyderabad,11,One Year,Fiber,No,Yes,No,Yes,No,Yes,No,No,Debit Card,105.46,1148.45,1,No,N/A
+CUST00542,Male,69,Delhi,4,Two Year,DSL,No,No,No,No,Yes,No,No,Yes,Debit Card,102.92,405.09,7,No,N/A
+CUST00543,Female,20,Pune,2,One Year,DSL,No,Yes,Yes,No,No,No,Yes,No,Net Banking,88.26,153.96,4,No,N/A
+CUST00544,Male,44,Mumbai,3,Two Year,Fiber,No,No,Yes,No,Yes,No,No,No,Net Banking,66.64,246.51,8,No,N/A
+CUST00545,Male,29,Ahmedabad,17,Two Year,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Debit Card,37.45,673.77,1,No,N/A
+CUST00546,Female,54,Chennai,45,Two Year,DSL,Yes,No,No,Yes,Yes,No,No,No,Net Banking,70.69,3142.37,2,No,N/A
+CUST00547,Female,27,Mumbai,48,Month-to-month,None,Yes,No,No,Yes,No,Yes,Yes,No,Credit Card,117.35,5644.99,3,No,N/A
+CUST00548,Female,52,Delhi,10,Two Year,Fiber,No,No,No,No,Yes,No,Yes,No,Debit Card,119.23,1198.84,10,No,N/A
+CUST00549,Female,41,Delhi,47,One Year,None,Yes,No,No,Yes,No,No,Yes,Yes,Debit Card,51.48,2466.8,4,No,N/A
+CUST00550,Male,23,Kolkata,53,One Year,None,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Net Banking,86.59,4599.82,5,No,N/A
+CUST00551,Female,19,Bengaluru,34,Month-to-month,Fiber,No,No,No,Yes,No,Yes,No,Yes,UPI,91.14,3095.75,2,Yes,Price
+CUST00552,Female,44,Ahmedabad,44,Two Year,DSL,No,No,Yes,Yes,Yes,Yes,Yes,No,Net Banking,81.66,3642.45,1,Yes,Competitor
+CUST00553,Male,32,Pune,49,One Year,DSL,Yes,No,No,No,No,No,Yes,Yes,Credit Card,37.67,1868.08,5,No,N/A
+CUST00554,Male,25,Pune,27,One Year,DSL,No,Yes,Yes,No,No,Yes,Yes,No,Debit Card,47.83,1329.37,6,Yes,Competitor
+CUST00555,Male,75,Hyderabad,13,Month-to-month,DSL,Yes,No,Yes,No,No,No,Yes,No,UPI,103.88,1375.93,1,No,N/A
+CUST00556,Male,73,Bengaluru,15,One Year,None,Yes,No,Yes,Yes,Yes,No,Yes,No,UPI,111.92,1640.79,7,No,N/A
+CUST00557,Male,45,Delhi,59,Two Year,None,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Debit Card,71.28,4233.22,6,No,N/A
+CUST00558,Male,58,Delhi,34,Two Year,None,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Net Banking,68.45,2296.01,8,No,N/A
+CUST00559,Male,74,Pune,34,Month-to-month,DSL,No,No,No,No,No,No,Yes,Yes,Credit Card,83.1,2798.87,6,No,N/A
+CUST00560,Female,60,Delhi,37,One Year,None,No,Yes,No,No,No,Yes,Yes,No,UPI,64.72,2369.38,7,Yes,Relocation
+CUST00561,Female,61,Chennai,65,One Year,DSL,No,No,No,No,Yes,No,No,Yes,UPI,105.1,6822.4,9,No,N/A
+CUST00562,Female,26,Mumbai,6,Two Year,Fiber,No,Yes,No,No,Yes,Yes,Yes,No,Debit Card,60.98,373.13,3,Yes,Price
+CUST00563,Female,39,Kolkata,21,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Debit Card,59.55,1272.33,5,No,N/A
+CUST00564,Female,59,Kolkata,37,Month-to-month,None,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card,43.0,1618.24,4,Yes,Price
+CUST00565,Male,37,Pune,51,One Year,Fiber,Yes,No,No,No,No,No,Yes,Yes,Net Banking,80.57,4090.29,6,No,N/A
+CUST00566,Male,49,Kolkata,72,One Year,None,Yes,No,Yes,Yes,No,Yes,No,No,Net Banking,48.44,3507.97,9,No,N/A
+CUST00567,Male,73,Ahmedabad,14,Two Year,Fiber,Yes,Yes,No,No,Yes,Yes,No,No,Net Banking,53.24,776.33,2,Yes,Poor Service
+CUST00568,Male,35,Hyderabad,40,Two Year,DSL,No,No,Yes,No,No,No,Yes,Yes,Net Banking,103.43,4090.85,10,No,N/A
+CUST00569,Male,20,Kolkata,10,One Year,Fiber,No,Yes,No,No,Yes,No,Yes,No,UPI,95.69,923.11,2,Yes,Relocation
+CUST00570,Male,69,Chennai,35,Two Year,None,No,No,No,Yes,No,Yes,Yes,No,Credit Card,81.51,2840.01,3,Yes,Support
+CUST00571,Male,30,Delhi,41,Two Year,DSL,No,Yes,Yes,No,Yes,Yes,No,Yes,UPI,35.03,1392.93,1,No,N/A
+CUST00572,Female,41,Kolkata,2,One Year,None,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Credit Card,47.46,127.0,7,No,N/A
+CUST00573,Female,69,Ahmedabad,17,Month-to-month,Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit Card,78.73,1365.02,6,No,N/A
+CUST00574,Female,38,Pune,42,Two Year,Fiber,Yes,No,No,No,No,No,No,No,Credit Card,116.98,4876.86,8,No,N/A
+CUST00575,Female,49,Pune,28,Two Year,Fiber,No,No,Yes,Yes,No,No,No,No,Debit Card,114.55,3240.76,3,No,N/A
+CUST00576,Male,30,Ahmedabad,72,One Year,None,Yes,Yes,No,No,Yes,No,No,Yes,UPI,112.06,8037.42,6,No,N/A
+CUST00577,Male,73,Ahmedabad,5,Two Year,None,No,No,Yes,No,Yes,Yes,No,Yes,Debit Card,84.17,410.68,5,Yes,Price
+CUST00578,Female,24,Pune,23,Month-to-month,None,Yes,No,No,Yes,No,Yes,No,No,Credit Card,33.16,754.64,2,Yes,Price
+CUST00579,Male,35,Hyderabad,9,Two Year,None,No,Yes,Yes,No,No,No,Yes,No,Net Banking,96.13,829.92,5,Yes,Relocation
+CUST00580,Male,29,Chennai,12,Two Year,None,Yes,Yes,Yes,Yes,No,No,Yes,Yes,UPI,66.3,757.23,2,No,N/A
+CUST00581,Male,35,Bengaluru,25,Two Year,DSL,No,Yes,Yes,No,Yes,Yes,No,No,Net Banking,93.81,2326.3,7,No,N/A
+CUST00582,Male,20,Kolkata,34,Month-to-month,None,Yes,No,No,No,Yes,No,No,Yes,Debit Card,55.52,1874.04,9,No,N/A
+CUST00583,Male,48,Bengaluru,34,One Year,None,No,No,No,Yes,No,Yes,No,Yes,Debit Card,46.08,1608.91,9,No,N/A
+CUST00584,Female,28,Ahmedabad,54,Two Year,Fiber,Yes,No,No,No,No,No,Yes,No,UPI,53.67,2938.48,3,No,N/A
+CUST00585,Male,44,Kolkata,44,One Year,None,No,Yes,Yes,Yes,No,Yes,Yes,Yes,UPI,60.12,2599.29,4,No,N/A
+CUST00586,Male,47,Mumbai,7,Two Year,Fiber,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Net Banking,50.93,383.09,6,No,N/A
+CUST00587,Female,24,Ahmedabad,12,Two Year,None,No,Yes,No,No,No,Yes,Yes,No,Debit Card,35.41,430.45,6,Yes,Poor Service
+CUST00588,Female,56,Kolkata,41,Two Year,Fiber,No,No,Yes,Yes,Yes,Yes,No,No,UPI,33.35,1394.68,5,No,N/A
+CUST00589,Male,49,Hyderabad,65,Month-to-month,Fiber,No,No,Yes,No,No,Yes,No,Yes,UPI,81.06,5294.07,2,No,N/A
+CUST00590,Female,61,Delhi,40,One Year,Fiber,No,Yes,No,Yes,Yes,No,Yes,No,Net Banking,102.13,4038.68,7,No,N/A
+CUST00591,Male,56,Ahmedabad,2,Two Year,DSL,No,No,No,Yes,Yes,No,No,Yes,Debit Card,115.99,222.15,1,Yes,Competitor
+CUST00592,Female,45,Mumbai,1,One Year,DSL,Yes,Yes,No,No,No,Yes,No,No,Net Banking,113.42,122.44,4,Yes,Support
+CUST00593,Female,44,Mumbai,44,One Year,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,Credit Card,96.68,4206.27,5,No,N/A
+CUST00594,Female,47,Hyderabad,69,Two Year,None,No,Yes,Yes,No,No,Yes,Yes,Yes,Net Banking,92.68,6408.21,7,No,N/A
+CUST00595,Male,29,Pune,66,Two Year,None,Yes,No,Yes,Yes,No,No,Yes,Yes,UPI,27.88,1882.82,5,No,N/A
+CUST00596,Male,56,Kolkata,61,Month-to-month,None,No,No,Yes,No,Yes,Yes,No,Yes,UPI,113.55,6904.03,3,No,N/A
+CUST00597,Male,63,Chennai,35,Month-to-month,Fiber,No,No,No,No,No,No,Yes,No,UPI,99.03,3479.54,2,No,N/A
+CUST00598,Male,61,Kolkata,41,One Year,DSL,Yes,Yes,No,No,Yes,Yes,No,No,UPI,64.44,2638.23,8,No,N/A
+CUST00599,Female,54,Kolkata,41,One Year,Fiber,No,No,Yes,No,Yes,No,Yes,Yes,Net Banking,66.74,2701.93,10,No,N/A
+CUST00600,Female,53,Kolkata,28,One Year,Fiber,No,No,No,No,Yes,No,No,Yes,Net Banking,31.06,848.61,3,No,N/A
+CUST00601,Male,43,Pune,64,Month-to-month,None,No,No,Yes,Yes,No,No,No,No,Debit Card,48.63,3154.78,3,No,N/A
+CUST00602,Male,38,Hyderabad,4,Month-to-month,None,No,Yes,No,Yes,No,Yes,Yes,No,UPI,33.86,147.43,2,Yes,Relocation
+CUST00603,Male,31,Ahmedabad,31,One Year,Fiber,No,Yes,Yes,No,Yes,No,Yes,Yes,Net Banking,113.71,3567.15,6,Yes,Price
+CUST00604,Female,73,Kolkata,9,Month-to-month,DSL,No,Yes,Yes,No,No,Yes,No,No,Credit Card,0.0,0.0,7,No,N/A
+CUST00605,Male,24,Bengaluru,47,One Year,None,Yes,Yes,No,No,No,Yes,Yes,No,Debit Card,112.74,5311.71,8,No,N/A
+CUST00606,Female,39,Pune,34,Two Year,DSL,No,No,No,No,Yes,Yes,Yes,No,Credit Card,84.2,2820.21,8,No,N/A
+CUST00607,Male,54,Pune,29,One Year,None,No,No,Yes,Yes,Yes,No,No,No,Debit Card,76.35,2235.53,5,No,N/A
+CUST00608,Female,48,Bengaluru,4,One Year,None,Yes,No,No,No,No,Yes,No,Yes,Net Banking,78.32,278.12,1,Yes,Support
+CUST00609,Male,32,Bengaluru,49,One Year,None,Yes,Yes,No,No,No,Yes,Yes,Yes,UPI,0.0,44.69,6,No,N/A
+CUST00610,Male,69,Mumbai,5,One Year,None,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Credit Card,29.88,132.35,2,Yes,Support
+CUST00611,Male,51,Pune,35,Month-to-month,Fiber,Yes,Yes,No,No,Yes,Yes,No,Yes,Debit Card,29.14,988.9,2,No,N/A
+CUST00612,Female,37,Mumbai,62,Two Year,DSL,Yes,No,Yes,No,Yes,No,No,No,Net Banking,28.34,1726.82,9,No,N/A
+CUST00613,Male,39,Pune,23,Two Year,None,No,No,Yes,Yes,No,Yes,No,No,Net Banking,68.33,1549.97,5,No,N/A
+CUST00614,Female,39,Bengaluru,21,Month-to-month,Fiber,Yes,Yes,No,No,No,No,Yes,No,Debit Card,96.04,2034.14,2,No,N/A
+CUST00615,Male,38,Ahmedabad,20,Two Year,None,No,No,Yes,No,No,No,No,Yes,UPI,39.19,773.42,3,No,N/A
+CUST00616,Female,66,Kolkata,43,Month-to-month,DSL,Yes,No,No,Yes,No,No,Yes,Yes,Debit Card,102.92,4407.09,5,No,N/A
+CUST00617,Male,69,Hyderabad,33,Two Year,None,No,No,Yes,Yes,Yes,Yes,No,No,Net Banking,57.35,1874.73,7,No,N/A
+CUST00618,Female,21,Delhi,6,Month-to-month,None,No,No,No,No,No,Yes,No,Yes,Credit Card,59.01,400.03,8,No,N/A
+CUST00619,Male,53,Delhi,42,One Year,Fiber,No,No,No,Yes,Yes,Yes,No,No,Net Banking,93.24,3948.51,3,No,N/A
+CUST00620,Female,34,Mumbai,28,Month-to-month,Fiber,No,No,No,No,Yes,Yes,No,Yes,Net Banking,66.83,1867.32,6,No,N/A
+CUST00621,Female,58,Delhi,5,Two Year,Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,No,UPI,107.31,519.26,9,No,N/A
+CUST00622,Female,47,Kolkata,60,Month-to-month,DSL,No,Yes,No,Yes,Yes,Yes,No,No,Debit Card,108.05,6506.89,6,Yes,Support
+CUST00623,Male,67,Chennai,34,Two Year,None,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card,78.44,2693.74,9,No,N/A
+CUST00624,Male,30,Pune,17,Month-to-month,DSL,No,Yes,Yes,No,Yes,Yes,No,Yes,Net Banking,115.47,1945.74,6,No,N/A
+CUST00625,Female,30,Hyderabad,4,One Year,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,UPI,94.39,401.55,7,Yes,Relocation
+CUST00626,Female,50,Delhi,41,One Year,Fiber,Yes,No,No,No,Yes,No,No,No,Credit Card,41.03,1641.31,9,No,N/A
+CUST00627,Female,74,Ahmedabad,56,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,85.2,4744.14,2,No,N/A
+CUST00628,Female,70,Bengaluru,61,One Year,Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Debit Card,26.12,1623.56,5,No,N/A
+CUST00629,Male,39,Mumbai,40,One Year,Fiber,Yes,No,Yes,No,Yes,Yes,Yes,Yes,UPI,57.32,2326.94,10,No,N/A
+CUST00630,Female,72,Ahmedabad,29,Month-to-month,None,Yes,No,No,No,No,Yes,No,No,Credit Card,118.82,3407.02,8,No,N/A
+CUST00631,Male,69,Bengaluru,62,Month-to-month,None,Yes,Yes,No,No,Yes,Yes,Yes,No,Debit Card,103.11,6399.94,3,No,N/A
+CUST00632,Female,66,Bengaluru,39,One Year,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Debit Card,117.4,4595.44,9,No,N/A
+CUST00633,Female,30,Kolkata,5,One Year,Fiber,No,No,No,Yes,No,No,No,Yes,UPI,43.78,208.58,1,Yes,Relocation
+CUST00634,Female,66,Pune,44,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,No,Yes,Yes,UPI,68.74,3029.45,2,No,N/A
+CUST00635,Male,43,Hyderabad,17,Month-to-month,None,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Debit Card,50.7,855.52,2,No,N/A
+CUST00636,Male,52,Kolkata,48,Month-to-month,DSL,Yes,No,No,No,No,No,No,No,Debit Card,88.04,4239.41,10,No,N/A
+CUST00637,Male,64,Delhi,39,Month-to-month,DSL,Yes,Yes,No,Yes,Yes,No,Yes,No,Net Banking,0.0,0.0,9,No,N/A
+CUST00638,Male,64,Bengaluru,25,Month-to-month,DSL,Yes,No,No,Yes,Yes,No,Yes,No,Debit Card,55.04,1348.63,5,Yes,Relocation
+CUST00639,Female,74,Pune,57,Month-to-month,DSL,No,Yes,No,No,Yes,No,No,Yes,Credit Card,32.49,1876.22,8,No,N/A
+CUST00640,Female,71,Kolkata,12,One Year,Fiber,Yes,No,No,No,No,No,No,No,Credit Card,80.33,973.86,6,No,N/A
+CUST00641,Female,60,Pune,2,Month-to-month,None,No,No,No,Yes,Yes,Yes,Yes,Yes,Debit Card,100.6,175.47,8,No,N/A
+CUST00642,Male,40,Ahmedabad,47,One Year,None,Yes,No,No,Yes,Yes,Yes,Yes,No,Credit Card,90.93,4284.09,7,No,N/A
+CUST00643,Female,40,Hyderabad,38,One Year,DSL,Yes,No,No,No,Yes,Yes,No,No,UPI,100.19,3830.13,5,No,N/A
+CUST00644,Male,38,Pune,23,Month-to-month,None,Yes,No,No,No,Yes,No,Yes,No,Net Banking,105.66,2413.56,10,No,N/A
+CUST00645,Female,19,Delhi,45,Month-to-month,None,No,No,Yes,No,Yes,Yes,Yes,Yes,Net Banking,63.78,2856.25,3,No,N/A
+CUST00646,Male,72,Pune,34,Two Year,None,Yes,No,Yes,No,Yes,Yes,Yes,No,Credit Card,54.02,1822.06,3,No,N/A
+CUST00647,Male,27,Mumbai,64,One Year,Fiber,Yes,No,No,No,Yes,No,Yes,No,Net Banking,89.51,5700.54,4,No,N/A
+CUST00648,Female,75,Hyderabad,34,One Year,None,No,Yes,Yes,No,Yes,Yes,Yes,No,UPI,118.19,4048.8,5,No,N/A
+CUST00649,Male,47,Pune,14,Two Year,Fiber,No,No,No,No,Yes,Yes,Yes,No,Credit Card,80.41,1147.75,9,No,N/A
+CUST00650,Female,75,Mumbai,45,Two Year,None,No,No,Yes,No,Yes,No,No,No,UPI,90.63,4034.73,6,Yes,Competitor
+CUST00651,Female,73,Mumbai,30,Two Year,Fiber,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Debit Card,107.6,3272.63,3,No,N/A
+CUST00652,Male,43,Kolkata,24,One Year,DSL,No,Yes,No,Yes,Yes,No,No,Yes,Net Banking,0.0,42.88,2,No,N/A
+CUST00653,Male,39,Ahmedabad,33,Month-to-month,None,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Credit Card,38.46,1259.32,4,No,N/A
+CUST00654,Male,29,Hyderabad,1,Two Year,None,No,Yes,Yes,No,Yes,Yes,No,Yes,Net Banking,50.63,80.63,10,No,N/A
+CUST00655,Male,69,Pune,23,One Year,Fiber,No,Yes,Yes,Yes,No,Yes,Yes,No,Net Banking,101.44,2327.63,10,Yes,Support
+CUST00656,Female,27,Hyderabad,71,One Year,Fiber,No,Yes,No,Yes,No,Yes,Yes,No,Net Banking,98.41,7031.51,9,Yes,Poor Service
+CUST00657,Female,43,Kolkata,70,One Year,Fiber,No,Yes,No,Yes,No,No,No,No,Net Banking,48.26,3341.75,4,No,N/A
+CUST00658,Male,37,Bengaluru,37,Two Year,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Net Banking,89.89,3328.69,1,No,N/A
+CUST00659,Male,47,Bengaluru,66,Month-to-month,None,No,Yes,Yes,No,Yes,Yes,Yes,No,Debit Card,37.83,2483.86,1,No,N/A
+CUST00660,Female,70,Hyderabad,15,One Year,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,UPI,20.47,281.09,6,No,N/A
+CUST00661,Male,70,Ahmedabad,53,One Year,None,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Credit Card,61.59,3255.63,5,No,N/A
+CUST00662,Female,61,Kolkata,21,One Year,None,No,No,No,Yes,Yes,No,Yes,Yes,Net Banking,68.85,1414.19,6,No,N/A
+CUST00663,Female,29,Delhi,26,Two Year,Fiber,Yes,No,No,No,Yes,No,Yes,Yes,Debit Card,119.56,3105.46,2,Yes,Price
+CUST00664,Female,29,Chennai,41,One Year,Fiber,Yes,No,No,Yes,No,Yes,Yes,Yes,Debit Card,0.0,0.0,3,No,N/A
+CUST00665,Female,53,Bengaluru,43,Month-to-month,None,No,Yes,Yes,Yes,No,Yes,Yes,No,UPI,63.89,2784.4,2,No,N/A
+CUST00666,Female,67,Delhi,5,Month-to-month,None,Yes,Yes,Yes,No,No,No,No,No,Debit Card,30.38,125.27,7,Yes,Price
+CUST00667,Male,47,Chennai,63,Month-to-month,Fiber,No,Yes,No,No,Yes,No,Yes,No,UPI,54.51,3482.93,8,No,N/A
+CUST00668,Female,26,Chennai,19,Month-to-month,DSL,No,No,No,No,No,No,No,No,UPI,0.0,0.0,9,No,N/A
+CUST00669,Male,54,Hyderabad,42,Two Year,None,No,No,No,No,No,Yes,No,Yes,Net Banking,33.31,1402.01,4,No,N/A
+CUST00670,Male,31,Chennai,14,Two Year,Fiber,No,No,Yes,No,Yes,Yes,No,Yes,UPI,65.23,953.69,10,No,N/A
+CUST00671,Female,33,Bengaluru,20,One Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Credit Card,77.51,1580.28,3,No,N/A
+CUST00672,Male,41,Chennai,41,Two Year,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Debit Card,55.67,2306.83,4,No,N/A
+CUST00673,Female,62,Pune,54,Two Year,Fiber,Yes,Yes,No,Yes,Yes,Yes,No,No,Net Banking,111.02,5986.05,9,No,N/A
+CUST00674,Male,46,Mumbai,62,One Year,None,No,No,Yes,No,Yes,Yes,Yes,No,Net Banking,22.0,1382.81,6,No,N/A
+CUST00675,Female,36,Delhi,20,One Year,None,No,Yes,No,Yes,No,No,Yes,No,Credit Card,113.5,2316.04,4,No,N/A
+CUST00676,Female,39,Mumbai,63,One Year,None,No,Yes,No,Yes,Yes,Yes,Yes,No,Net Banking,36.69,2326.41,5,No,N/A
+CUST00677,Female,41,Kolkata,26,One Year,None,No,Yes,No,No,Yes,No,No,No,Credit Card,58.0,1461.6,5,No,N/A
+CUST00678,Male,19,Bengaluru,58,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Credit Card,28.48,1668.46,6,No,N/A
+CUST00679,Female,68,Delhi,2,Two Year,Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,54.11,149.11,2,Yes,Relocation
+CUST00680,Male,63,Ahmedabad,30,Two Year,None,Yes,No,No,Yes,No,Yes,Yes,Yes,Debit Card,91.7,2739.69,9,No,N/A
+CUST00681,Male,30,Bengaluru,26,One Year,Fiber,Yes,No,No,No,No,Yes,No,No,UPI,107.82,2810.86,4,No,N/A
+CUST00682,Male,22,Mumbai,31,Month-to-month,DSL,No,Yes,No,Yes,No,Yes,Yes,No,UPI,85.48,2696.69,5,No,N/A
+CUST00683,Female,41,Ahmedabad,9,One Year,DSL,No,Yes,Yes,Yes,Yes,No,No,No,Net Banking,92.71,816.3,6,No,N/A
+CUST00684,Female,46,Bengaluru,42,Month-to-month,None,No,No,Yes,Yes,No,No,Yes,No,UPI,104.65,4442.53,8,No,N/A
+CUST00685,Male,24,Mumbai,2,One Year,DSL,Yes,No,No,Yes,Yes,No,No,Yes,UPI,101.74,244.02,3,Yes,Poor Service
+CUST00686,Male,49,Mumbai,71,One Year,Fiber,Yes,No,No,No,Yes,Yes,No,Yes,Net Banking,38.99,2778.97,8,No,N/A
+CUST00687,Female,61,Kolkata,63,Two Year,Fiber,Yes,No,No,No,Yes,No,No,Yes,Credit Card,0.0,0.0,3,No,N/A
+CUST00688,Female,58,Ahmedabad,58,One Year,None,No,No,Yes,Yes,No,Yes,Yes,Yes,Net Banking,44.61,2631.84,4,No,N/A
+CUST00689,Female,23,Ahmedabad,61,One Year,None,No,Yes,No,No,Yes,No,Yes,No,Credit Card,51.35,3170.42,7,No,N/A
+CUST00690,Male,68,Pune,61,One Year,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No,Debit Card,83.31,5064.63,10,No,N/A
+CUST00691,Female,19,Mumbai,49,Two Year,None,No,Yes,No,No,Yes,No,No,Yes,Net Banking,101.86,4942.23,5,No,N/A
+CUST00692,Male,55,Bengaluru,41,One Year,Fiber,Yes,Yes,No,No,No,Yes,No,No,Credit Card,47.36,1919.35,10,No,N/A
+CUST00693,Female,54,Mumbai,56,Two Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,59.55,3317.46,1,No,N/A
+CUST00694,Male,49,Kolkata,12,Two Year,Fiber,No,No,Yes,Yes,Yes,No,Yes,Yes,UPI,117.23,1390.58,7,No,N/A
+CUST00695,Male,48,Mumbai,30,Month-to-month,Fiber,Yes,Yes,Yes,No,No,No,No,Yes,UPI,84.48,2540.17,1,No,N/A
+CUST00696,Male,30,Mumbai,64,Month-to-month,Fiber,No,Yes,No,Yes,No,Yes,No,Yes,Debit Card,0.0,21.47,7,No,N/A
+CUST00697,Female,50,Kolkata,69,Month-to-month,Fiber,No,No,Yes,No,No,No,Yes,No,Net Banking,0.0,12.77,10,No,N/A
+CUST00698,Male,20,Kolkata,4,Month-to-month,None,Yes,Yes,No,Yes,No,No,No,Yes,Debit Card,116.77,484.26,7,No,N/A
+CUST00699,Male,49,Kolkata,33,Two Year,DSL,No,No,Yes,No,No,No,Yes,Yes,Credit Card,22.38,689.78,3,No,N/A
+CUST00700,Female,64,Bengaluru,1,Month-to-month,Fiber,No,Yes,Yes,No,No,Yes,No,No,Credit Card,81.93,117.65,5,No,N/A
+CUST00701,Male,25,Mumbai,39,One Year,Fiber,Yes,Yes,Yes,Yes,No,No,No,Yes,Net Banking,109.85,4264.36,5,No,N/A
+CUST00702,Female,71,Ahmedabad,9,One Year,Fiber,Yes,Yes,Yes,No,No,No,Yes,No,Credit Card,35.33,274.49,7,Yes,Relocation
+CUST00703,Male,73,Kolkata,35,Two Year,None,No,Yes,Yes,No,No,Yes,No,No,Net Banking,38.81,1377.32,1,No,N/A
+CUST00704,Female,65,Chennai,70,One Year,Fiber,No,No,No,No,No,Yes,No,No,UPI,85.86,5997.33,9,No,N/A
+CUST00705,Female,66,Bengaluru,56,Month-to-month,DSL,Yes,No,Yes,Yes,Yes,No,Yes,No,Credit Card,45.32,2501.68,6,No,N/A
+CUST00706,Male,65,Hyderabad,65,Two Year,None,No,No,Yes,No,No,No,No,Yes,UPI,71.96,4684.95,5,No,N/A
+CUST00707,Male,63,Mumbai,53,Two Year,Fiber,No,Yes,Yes,No,Yes,No,No,Yes,Credit Card,118.8,6268.98,8,No,N/A
+CUST00708,Male,22,Pune,25,One Year,Fiber,No,No,No,Yes,No,No,No,No,Debit Card,0.0,0.0,2,No,N/A
+CUST00709,Female,20,Ahmedabad,39,One Year,DSL,Yes,No,No,No,Yes,No,No,No,Credit Card,78.97,3077.67,10,No,N/A
+CUST00710,Male,23,Hyderabad,49,Two Year,None,Yes,No,No,No,Yes,No,Yes,No,UPI,0.0,0.0,2,No,N/A
+CUST00711,Male,50,Ahmedabad,71,Month-to-month,None,Yes,No,No,No,Yes,No,Yes,No,Debit Card,105.46,7459.32,7,Yes,Poor Service
+CUST00712,Male,71,Delhi,58,Month-to-month,DSL,No,Yes,Yes,No,Yes,No,Yes,No,Debit Card,36.27,2082.69,6,No,N/A
+CUST00713,Male,24,Bengaluru,29,Month-to-month,Fiber,Yes,No,No,No,No,Yes,No,Yes,Net Banking,88.3,2595.25,4,No,N/A
+CUST00714,Female,74,Chennai,61,One Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,0.0,0.0,7,Yes,Price
+CUST00715,Male,53,Mumbai,70,Month-to-month,Fiber,Yes,No,Yes,No,Yes,No,Yes,Yes,Credit Card,46.3,3197.68,3,No,N/A
+CUST00716,Male,73,Ahmedabad,68,Month-to-month,Fiber,No,No,No,Yes,Yes,Yes,No,Yes,Debit Card,78.56,5292.97,3,No,N/A
+CUST00717,Male,54,Bengaluru,17,Month-to-month,None,No,No,Yes,No,No,Yes,No,Yes,UPI,34.54,613.23,8,No,N/A
+CUST00718,Male,65,Bengaluru,51,One Year,None,No,Yes,Yes,No,No,Yes,No,Yes,Net Banking,0.0,17.17,6,No,N/A
+CUST00719,Female,47,Chennai,9,One Year,None,No,No,No,No,No,Yes,No,No,Credit Card,90.45,841.75,1,Yes,Relocation
+CUST00720,Female,35,Pune,63,Two Year,None,Yes,No,No,Yes,Yes,No,No,Yes,UPI,73.27,4627.65,2,No,N/A
+CUST00721,Male,69,Pune,67,Month-to-month,None,No,No,Yes,No,Yes,Yes,No,Yes,Debit Card,47.85,3215.73,4,No,N/A
+CUST00722,Female,54,Ahmedabad,44,Two Year,DSL,Yes,No,Yes,No,Yes,No,No,Yes,Credit Card,84.75,3728.7,4,No,N/A
+CUST00723,Female,50,Kolkata,25,Month-to-month,DSL,Yes,No,No,Yes,No,No,No,No,Credit Card,45.48,1136.51,9,No,N/A
+CUST00724,Female,24,Pune,18,Month-to-month,Fiber,No,Yes,Yes,Yes,Yes,Yes,No,No,UPI,56.13,1040.47,1,Yes,Price
+CUST00725,Female,71,Hyderabad,56,Month-to-month,Fiber,No,Yes,Yes,No,Yes,Yes,Yes,Yes,UPI,42.04,2364.61,5,No,N/A
+CUST00726,Male,75,Bengaluru,63,Month-to-month,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Debit Card,44.62,2801.7,4,No,N/A
+CUST00727,Female,72,Kolkata,13,Month-to-month,None,No,Yes,No,No,No,No,Yes,No,Net Banking,60.85,785.46,3,No,N/A
+CUST00728,Female,28,Kolkata,57,Month-to-month,Fiber,No,No,No,No,Yes,No,Yes,No,Net Banking,57.3,3286.45,10,No,N/A
+CUST00729,Female,54,Chennai,4,One Year,DSL,Yes,No,No,No,No,Yes,No,No,UPI,76.33,319.87,2,Yes,Price
+CUST00730,Male,72,Mumbai,30,One Year,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,UPI,111.16,3310.79,3,No,N/A
+CUST00731,Female,28,Delhi,58,Month-to-month,Fiber,Yes,Yes,No,No,No,Yes,Yes,Yes,Debit Card,34.16,1974.87,3,No,N/A
+CUST00732,Female,64,Bengaluru,10,Month-to-month,None,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Net Banking,30.15,333.23,3,Yes,Relocation
+CUST00733,Female,54,Pune,18,One Year,Fiber,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Debit Card,66.91,1239.03,4,No,N/A
+CUST00734,Female,74,Ahmedabad,1,Two Year,None,No,No,No,No,Yes,No,Yes,Yes,Debit Card,72.89,71.89,7,No,N/A
+CUST00735,Female,42,Pune,10,One Year,Fiber,No,No,Yes,Yes,Yes,No,Yes,No,Debit Card,56.75,547.34,10,No,N/A
+CUST00736,Female,47,Ahmedabad,39,One Year,Fiber,No,Yes,No,Yes,Yes,Yes,Yes,No,UPI,34.23,1375.02,8,No,N/A
+CUST00737,Female,70,Ahmedabad,7,Month-to-month,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,Debit Card,110.94,815.28,7,Yes,Competitor
+CUST00738,Female,43,Chennai,72,Two Year,DSL,No,No,No,No,Yes,Yes,No,No,Net Banking,22.47,1589.71,9,No,N/A
+CUST00739,Male,70,Kolkata,66,One Year,None,No,No,Yes,Yes,Yes,Yes,No,No,Net Banking,0.0,27.93,10,No,N/A
+CUST00740,Male,44,Bengaluru,29,One Year,None,No,Yes,Yes,Yes,Yes,Yes,No,No,Credit Card,0.0,0.0,3,No,N/A
+CUST00741,Female,57,Chennai,29,One Year,DSL,No,No,Yes,No,Yes,Yes,Yes,No,Net Banking,118.12,3467.96,8,Yes,Relocation
+CUST00742,Female,69,Pune,35,Month-to-month,Fiber,Yes,Yes,Yes,No,Yes,Yes,No,No,Net Banking,70.88,2480.69,7,Yes,Support
+CUST00743,Male,67,Chennai,54,Month-to-month,DSL,No,No,Yes,No,No,Yes,No,No,Credit Card,49.91,2669.39,10,No,N/A
+CUST00744,Female,45,Hyderabad,40,One Year,Fiber,Yes,No,Yes,No,No,Yes,Yes,Yes,Credit Card,107.91,4315.59,7,No,N/A
+CUST00745,Male,26,Pune,2,One Year,None,No,Yes,Yes,Yes,No,No,Yes,Yes,Credit Card,62.85,165.36,3,Yes,Poor Service
+CUST00746,Female,24,Pune,6,Two Year,DSL,Yes,No,Yes,Yes,No,No,Yes,Yes,Net Banking,102.14,582.06,3,No,N/A
+CUST00747,Female,40,Pune,29,One Year,None,No,No,Yes,No,No,Yes,Yes,No,Debit Card,23.2,708.02,3,No,N/A
+CUST00748,Male,27,Delhi,20,One Year,DSL,No,Yes,No,No,No,Yes,No,Yes,Net Banking,0.0,0.0,2,Yes,Relocation
+CUST00749,Female,29,Ahmedabad,5,One Year,None,No,No,No,Yes,No,No,No,Yes,Credit Card,59.08,279.91,1,Yes,Competitor
+CUST00750,Male,50,Ahmedabad,22,One Year,Fiber,Yes,No,Yes,Yes,No,No,No,No,Credit Card,61.58,1353.45,6,Yes,Poor Service
+CUST00751,Female,51,Kolkata,14,Two Year,None,Yes,No,Yes,No,No,No,Yes,No,UPI,102.43,1434.13,4,Yes,Support
+CUST00752,Female,47,Hyderabad,3,One Year,None,Yes,No,No,No,Yes,Yes,No,No,UPI,82.7,277.28,8,No,N/A
+CUST00753,Male,45,Mumbai,1,Month-to-month,DSL,No,Yes,No,Yes,No,Yes,No,Yes,Debit Card,24.05,69.25,8,No,N/A
+CUST00754,Male,39,Hyderabad,50,One Year,Fiber,Yes,Yes,No,Yes,No,No,No,Yes,Net Banking,52.86,2647.51,4,Yes,Relocation
+CUST00755,Male,22,Bengaluru,27,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,No,No,Yes,Net Banking,56.14,1542.29,5,No,N/A
+CUST00756,Male,40,Bengaluru,66,One Year,Fiber,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Debit Card,86.8,5706.63,2,No,N/A
+CUST00757,Female,24,Kolkata,62,Month-to-month,Fiber,Yes,No,Yes,Yes,No,No,No,No,UPI,95.73,5920.4,6,No,N/A
+CUST00758,Female,59,Chennai,26,One Year,None,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Net Banking,23.64,583.45,10,No,N/A
+CUST00759,Male,68,Chennai,64,Month-to-month,DSL,No,No,Yes,Yes,Yes,No,Yes,No,Net Banking,75.16,4836.4,2,No,N/A
+CUST00760,Female,37,Pune,20,One Year,Fiber,Yes,No,No,Yes,Yes,Yes,Yes,No,Credit Card,104.97,2147.53,9,No,N/A
+CUST00761,Male,55,Delhi,13,Month-to-month,Fiber,No,No,Yes,No,No,Yes,No,Yes,UPI,96.8,1240.23,2,No,N/A
+CUST00762,Male,24,Ahmedabad,54,Month-to-month,DSL,No,No,Yes,No,Yes,Yes,Yes,No,Debit Card,53.33,2903.93,3,Yes,Support
+CUST00763,Male,28,Hyderabad,24,One Year,Fiber,No,Yes,No,Yes,Yes,No,Yes,No,Debit Card,76.9,1882.27,1,No,N/A
+CUST00764,Female,35,Hyderabad,68,Two Year,Fiber,No,No,No,Yes,Yes,No,Yes,No,Debit Card,33.62,2333.53,7,No,N/A
+CUST00765,Male,33,Mumbai,24,Two Year,Fiber,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Credit Card,78.02,1919.2,4,Yes,Price
+CUST00766,Female,44,Kolkata,53,Two Year,None,No,No,Yes,Yes,Yes,No,No,Yes,Debit Card,40.63,2117.83,2,No,N/A
+CUST00767,Male,21,Mumbai,63,Two Year,DSL,No,Yes,No,Yes,No,Yes,No,No,Debit Card,47.39,2940.46,1,No,N/A
+CUST00768,Female,37,Hyderabad,55,One Year,Fiber,No,No,No,No,Yes,No,Yes,No,Debit Card,67.32,3728.86,2,No,N/A
+CUST00769,Male,25,Pune,3,Two Year,DSL,No,Yes,No,No,No,Yes,Yes,Yes,Debit Card,84.52,242.02,9,No,N/A
+CUST00770,Male,58,Ahmedabad,37,Two Year,Fiber,Yes,Yes,No,No,No,Yes,No,Yes,Debit Card,44.43,1689.68,9,No,N/A
+CUST00771,Female,60,Chennai,14,Month-to-month,DSL,No,Yes,Yes,No,Yes,No,No,No,Debit Card,92.09,1281.74,5,No,N/A
+CUST00772,Male,54,Bengaluru,69,Month-to-month,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,Debit Card,42.76,2996.19,1,No,N/A
+CUST00773,Female,59,Ahmedabad,28,Month-to-month,Fiber,No,Yes,Yes,Yes,No,Yes,Yes,No,UPI,29.69,806.97,10,No,N/A
+CUST00774,Male,68,Kolkata,70,One Year,Fiber,Yes,Yes,No,Yes,No,No,No,No,Debit Card,95.73,6723.97,8,No,N/A
+CUST00775,Male,65,Mumbai,4,Two Year,Fiber,Yes,Yes,Yes,Yes,No,No,Yes,No,Debit Card,118.07,479.45,5,Yes,Poor Service
+CUST00776,Female,71,Kolkata,18,Month-to-month,None,Yes,Yes,No,No,Yes,Yes,No,Yes,Debit Card,0.0,22.57,4,No,N/A
+CUST00777,Female,32,Bengaluru,54,One Year,None,No,No,Yes,Yes,No,No,Yes,No,UPI,96.44,5178.94,3,No,N/A
+CUST00778,Female,42,Ahmedabad,41,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Credit Card,41.41,1721.15,1,No,N/A
+CUST00779,Male,33,Delhi,67,One Year,None,Yes,No,No,No,Yes,Yes,Yes,No,Net Banking,107.58,7237.75,4,No,N/A
+CUST00780,Female,22,Kolkata,27,Two Year,None,Yes,No,No,Yes,No,No,Yes,Yes,Credit Card,99.0,2692.88,2,No,N/A
+CUST00781,Male,23,Hyderabad,4,One Year,Fiber,No,No,Yes,Yes,Yes,No,No,No,Credit Card,89.09,392.65,1,Yes,Poor Service
+CUST00782,Male,56,Ahmedabad,65,One Year,DSL,Yes,Yes,Yes,No,Yes,No,No,No,Credit Card,95.25,6167.33,2,No,N/A
+CUST00783,Male,42,Chennai,65,Two Year,DSL,Yes,No,No,Yes,No,No,Yes,Yes,Net Banking,22.63,1480.87,1,No,N/A
+CUST00784,Female,37,Bengaluru,20,Two Year,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,Net Banking,71.17,1472.47,6,No,N/A
+CUST00785,Male,21,Pune,46,Month-to-month,Fiber,No,No,Yes,Yes,No,No,Yes,No,Net Banking,21.7,1010.64,9,No,N/A
+CUST00786,Female,35,Hyderabad,32,Month-to-month,None,Yes,Yes,No,No,Yes,No,No,No,Debit Card,57.81,1876.31,9,No,N/A
+CUST00787,Female,31,Delhi,3,One Year,DSL,Yes,No,Yes,No,No,No,Yes,No,UPI,61.98,207.64,6,No,N/A
+CUST00788,Female,39,Bengaluru,38,One Year,Fiber,Yes,Yes,No,No,No,No,No,No,Credit Card,24.23,911.07,4,No,N/A
+CUST00789,Female,39,Bengaluru,29,One Year,None,Yes,No,Yes,No,Yes,No,Yes,Yes,Debit Card,56.84,1653.97,9,No,N/A
+CUST00790,Female,74,Delhi,27,One Year,None,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Credit Card,102.39,2733.96,9,No,N/A
+CUST00791,Female,59,Chennai,26,Month-to-month,Fiber,No,Yes,Yes,Yes,No,No,No,Yes,Net Banking,29.14,775.52,8,No,N/A
+CUST00792,Male,29,Hyderabad,65,Month-to-month,Fiber,Yes,No,No,Yes,Yes,Yes,Yes,No,UPI,97.89,6384.88,9,No,N/A
+CUST00793,Male,74,Hyderabad,61,One Year,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No,Credit Card,69.74,4277.07,10,Yes,Relocation
+CUST00794,Male,66,Kolkata,70,Month-to-month,Fiber,Yes,Yes,Yes,Yes,Yes,No,No,No,UPI,43.13,3022.09,6,No,N/A
+CUST00795,Female,65,Mumbai,54,One Year,None,Yes,No,Yes,No,No,No,No,Yes,Credit Card,45.51,2411.19,5,Yes,Support
+CUST00796,Male,51,Hyderabad,15,One Year,DSL,No,Yes,Yes,No,Yes,No,Yes,No,Debit Card,62.65,974.4,1,No,N/A
+CUST00797,Female,50,Bengaluru,13,One Year,None,Yes,No,No,No,Yes,Yes,No,No,Credit Card,96.76,1233.28,6,No,N/A
+CUST00798,Male,39,Pune,15,Month-to-month,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Credit Card,109.64,1595.1,9,No,N/A
+CUST00799,Male,69,Pune,48,One Year,None,Yes,Yes,No,No,Yes,No,No,No,UPI,89.4,4301.77,1,No,N/A
+CUST00800,Female,27,Chennai,71,Two Year,DSL,Yes,Yes,No,Yes,No,Yes,No,Yes,Debit Card,95.95,6837.05,8,Yes,Support
+CUST00801,Male,67,Kolkata,25,One Year,None,Yes,No,Yes,No,Yes,No,Yes,No,Net Banking,103.92,2628.71,4,No,N/A
+CUST00802,Male,51,Hyderabad,4,One Year,None,No,Yes,Yes,Yes,No,Yes,No,No,Credit Card,37.39,121.15,9,No,N/A
+CUST00803,Male,43,Chennai,19,Two Year,None,Yes,No,No,Yes,No,No,No,No,Credit Card,76.63,1449.38,1,No,N/A
+CUST00804,Male,69,Chennai,28,Two Year,DSL,Yes,No,Yes,No,No,Yes,Yes,No,UPI,0.0,0.0,7,Yes,Poor Service
+CUST00805,Female,56,Kolkata,6,One Year,Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Credit Card,103.25,585.92,4,Yes,Support
+CUST00806,Male,72,Chennai,7,Month-to-month,DSL,No,Yes,Yes,No,No,Yes,Yes,No,Debit Card,57.52,358.24,5,Yes,Support
+CUST00807,Male,21,Ahmedabad,36,Month-to-month,None,No,No,Yes,Yes,No,Yes,Yes,No,Net Banking,109.57,3938.58,10,No,N/A
+CUST00808,Male,43,Pune,50,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,Yes,No,No,Debit Card,118.2,5916.54,10,Yes,Competitor
+CUST00809,Female,18,Hyderabad,26,Month-to-month,None,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Debit Card,116.1,2979.47,9,No,N/A
+CUST00810,Female,42,Delhi,66,Month-to-month,Fiber,No,Yes,No,No,No,Yes,Yes,No,Credit Card,51.78,3414.25,9,No,N/A
+CUST00811,Female,21,Hyderabad,19,One Year,Fiber,No,Yes,No,No,Yes,Yes,No,No,Debit Card,49.4,892.9,2,No,N/A
+CUST00812,Male,24,Hyderabad,24,One Year,None,No,Yes,No,No,No,Yes,No,Yes,Debit Card,103.4,2495.51,8,No,N/A
+CUST00813,Female,32,Ahmedabad,15,Two Year,Fiber,No,No,No,Yes,No,No,Yes,No,Net Banking,37.72,583.95,6,No,N/A
+CUST00814,Male,42,Bengaluru,31,Month-to-month,None,Yes,Yes,Yes,No,No,Yes,Yes,No,UPI,71.83,2257.49,1,No,N/A
+CUST00815,Male,64,Delhi,2,Two Year,None,Yes,Yes,Yes,No,No,No,Yes,No,Debit Card,73.91,142.55,2,No,N/A
+CUST00816,Male,75,Mumbai,56,One Year,Fiber,Yes,No,No,No,Yes,No,No,Yes,Credit Card,74.19,4182.97,1,No,N/A
+CUST00817,Female,23,Chennai,37,Month-to-month,Fiber,No,No,No,No,Yes,Yes,Yes,No,UPI,82.61,3057.32,1,No,N/A
+CUST00818,Female,42,Bengaluru,49,Two Year,None,No,No,Yes,Yes,No,Yes,No,Yes,UPI,116.35,5657.5,8,No,N/A
+CUST00819,Female,74,Mumbai,68,Two Year,DSL,No,No,No,No,Yes,Yes,Yes,Yes,UPI,0.0,14.35,4,No,N/A
+CUST00820,Female,47,Kolkata,70,Month-to-month,Fiber,No,No,Yes,Yes,Yes,No,No,Yes,Debit Card,94.65,6660.75,5,No,N/A
+CUST00821,Female,23,Chennai,70,Month-to-month,None,No,No,Yes,No,No,Yes,Yes,No,Debit Card,112.38,7910.05,6,No,N/A
+CUST00822,Male,53,Kolkata,29,One Year,DSL,Yes,No,No,No,No,Yes,No,No,UPI,80.79,2361.55,2,No,N/A
+CUST00823,Male,71,Delhi,34,One Year,None,No,Yes,Yes,Yes,No,Yes,No,Yes,Credit Card,39.42,1353.09,2,No,N/A
+CUST00824,Male,24,Hyderabad,47,Two Year,Fiber,No,Yes,No,No,Yes,Yes,No,No,UPI,50.76,2368.24,8,Yes,Competitor
+CUST00825,Male,36,Delhi,6,Month-to-month,DSL,Yes,No,No,Yes,No,Yes,Yes,No,Credit Card,0.0,12.08,3,No,N/A
+CUST00826,Female,43,Bengaluru,35,Month-to-month,DSL,No,No,Yes,No,No,No,No,No,UPI,43.5,1523.93,9,No,N/A
+CUST00827,Female,64,Kolkata,22,One Year,DSL,No,Yes,Yes,No,Yes,Yes,No,No,Credit Card,90.61,1994.44,5,No,N/A
+CUST00828,Female,58,Hyderabad,18,Two Year,None,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Debit Card,20.63,325.28,3,No,N/A
+CUST00829,Male,61,Delhi,1,One Year,DSL,No,No,No,No,Yes,No,Yes,No,Net Banking,68.05,70.23,7,No,N/A
+CUST00830,Male,41,Pune,57,Month-to-month,Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,49.27,2799.72,1,Yes,Support
+CUST00831,Female,34,Ahmedabad,1,Month-to-month,Fiber,No,No,Yes,Yes,No,No,Yes,No,Debit Card,82.41,38.31,1,No,N/A
+CUST00832,Female,48,Bengaluru,24,One Year,Fiber,Yes,No,Yes,Yes,No,No,Yes,Yes,Net Banking,68.01,1614.32,6,No,N/A
+CUST00833,Female,61,Hyderabad,7,Month-to-month,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Net Banking,38.17,261.14,2,No,N/A
+CUST00834,Male,53,Bengaluru,22,Month-to-month,Fiber,No,No,Yes,Yes,No,No,No,No,Credit Card,93.28,2082.1,10,Yes,Competitor
+CUST00835,Female,36,Hyderabad,63,Month-to-month,None,No,No,No,No,Yes,Yes,No,No,Credit Card,66.3,4201.27,8,No,N/A
+CUST00836,Female,66,Ahmedabad,24,Two Year,Fiber,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Credit Card,64.01,1502.45,6,No,N/A
+CUST00837,Male,20,Mumbai,18,One Year,None,No,No,No,No,Yes,No,No,Yes,Debit Card,59.71,1103.84,1,No,N/A
+CUST00838,Female,37,Hyderabad,69,One Year,None,Yes,No,Yes,No,Yes,No,Yes,Yes,Credit Card,26.09,1834.0,1,No,N/A
+CUST00839,Male,23,Pune,3,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Debit Card,84.29,219.62,10,No,N/A
+CUST00840,Male,25,Hyderabad,64,Month-to-month,Fiber,No,No,No,Yes,Yes,Yes,Yes,Yes,Credit Card,116.74,7435.88,1,No,N/A
+CUST00841,Male,46,Bengaluru,49,Two Year,DSL,No,Yes,Yes,Yes,Yes,No,Yes,No,Net Banking,32.95,1582.62,2,No,N/A
+CUST00842,Male,27,Pune,44,Month-to-month,Fiber,Yes,No,Yes,No,Yes,No,Yes,No,Debit Card,21.34,906.84,5,No,N/A
+CUST00843,Female,40,Kolkata,20,Month-to-month,None,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Net Banking,57.56,1102.91,10,No,N/A
+CUST00844,Female,42,Pune,16,Month-to-month,Fiber,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Net Banking,39.08,668.8,9,No,N/A
+CUST00845,Male,56,Mumbai,16,One Year,None,Yes,No,No,Yes,No,Yes,Yes,Yes,UPI,36.2,552.28,8,No,N/A
+CUST00846,Male,70,Mumbai,68,Month-to-month,None,No,Yes,Yes,Yes,Yes,Yes,No,No,Net Banking,110.11,7471.72,5,No,N/A
+CUST00847,Female,41,Pune,58,One Year,Fiber,Yes,No,No,Yes,Yes,No,No,No,Credit Card,109.3,6320.23,2,No,N/A
+CUST00848,Male,20,Hyderabad,15,Month-to-month,None,No,Yes,Yes,No,No,No,Yes,No,Debit Card,0.0,0.0,2,No,N/A
+CUST00849,Male,55,Mumbai,55,Two Year,Fiber,No,Yes,No,Yes,Yes,Yes,No,No,Credit Card,74.44,4095.89,6,No,N/A
+CUST00850,Female,41,Pune,32,One Year,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Debit Card,91.26,2903.53,1,No,N/A
+CUST00851,Female,49,Mumbai,45,Month-to-month,Fiber,Yes,No,Yes,Yes,No,Yes,No,No,Net Banking,72.81,3261.98,7,No,N/A
+CUST00852,Male,62,Ahmedabad,51,Month-to-month,Fiber,Yes,No,No,No,No,Yes,No,No,Credit Card,34.89,1764.71,2,No,N/A
+CUST00853,Male,19,Pune,9,Two Year,Fiber,Yes,No,Yes,No,Yes,Yes,No,Yes,Credit Card,25.06,234.39,8,Yes,Competitor
+CUST00854,Female,43,Ahmedabad,33,Two Year,Fiber,Yes,Yes,No,No,Yes,No,No,No,Credit Card,70.18,2346.72,5,No,N/A
+CUST00855,Male,49,Ahmedabad,53,Two Year,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card,115.55,6088.99,8,No,N/A
+CUST00856,Female,72,Bengaluru,58,Month-to-month,Fiber,No,Yes,No,Yes,Yes,Yes,No,Yes,Debit Card,26.7,1580.85,5,No,N/A
+CUST00857,Male,33,Chennai,4,Two Year,None,No,Yes,Yes,Yes,No,Yes,No,Yes,Credit Card,86.04,320.11,9,No,N/A
+CUST00858,Male,46,Chennai,70,Two Year,None,Yes,No,No,No,Yes,Yes,Yes,Yes,UPI,109.42,7639.81,3,No,N/A
+CUST00859,Male,71,Hyderabad,70,One Year,None,Yes,No,No,Yes,Yes,Yes,No,No,Debit Card,0.0,0.0,8,No,N/A
+CUST00860,Female,60,Mumbai,55,One Year,Fiber,No,Yes,Yes,No,Yes,No,Yes,No,Net Banking,70.47,3872.19,7,No,N/A
+CUST00861,Male,39,Kolkata,6,One Year,Fiber,No,No,Yes,No,Yes,No,No,No,Net Banking,75.18,425.89,8,No,N/A
+CUST00862,Female,27,Delhi,70,One Year,Fiber,Yes,No,Yes,No,Yes,Yes,No,Yes,Net Banking,46.48,3264.78,1,No,N/A
+CUST00863,Male,35,Kolkata,36,Two Year,None,Yes,Yes,No,Yes,No,No,No,Yes,Net Banking,32.51,1170.61,10,No,N/A
+CUST00864,Male,40,Bengaluru,9,Month-to-month,None,No,Yes,Yes,Yes,No,No,Yes,No,Debit Card,82.32,697.22,5,Yes,Price
+CUST00865,Female,39,Mumbai,32,Month-to-month,DSL,No,No,No,Yes,No,Yes,Yes,No,UPI,0.0,0.0,9,No,N/A
+CUST00866,Male,48,Ahmedabad,5,Two Year,Fiber,Yes,No,Yes,Yes,No,No,Yes,Yes,UPI,89.7,425.86,10,No,N/A
+CUST00867,Male,43,Kolkata,11,One Year,None,No,Yes,No,No,No,No,No,Yes,UPI,61.37,709.85,2,No,N/A
+CUST00868,Male,64,Bengaluru,44,Month-to-month,None,No,No,Yes,No,Yes,No,Yes,Yes,Net Banking,117.89,5217.52,1,Yes,Support
+CUST00869,Female,31,Kolkata,11,One Year,Fiber,No,Yes,Yes,No,No,No,Yes,No,Net Banking,92.82,993.73,10,No,N/A
+CUST00870,Male,37,Pune,1,Month-to-month,Fiber,No,No,No,No,No,No,No,No,Credit Card,0.0,9.41,10,No,N/A
+CUST00871,Female,49,Ahmedabad,42,One Year,None,Yes,No,No,No,Yes,Yes,Yes,No,Debit Card,46.21,1892.26,5,No,N/A
+CUST00872,Male,67,Kolkata,32,One Year,None,No,Yes,Yes,No,No,No,Yes,Yes,Credit Card,56.95,1852.29,7,No,N/A
+CUST00873,Female,45,Ahmedabad,55,Two Year,None,No,No,No,Yes,No,Yes,No,Yes,Credit Card,38.67,2094.34,5,No,N/A
+CUST00874,Female,52,Kolkata,11,Month-to-month,Fiber,Yes,Yes,No,No,No,No,Yes,Yes,Credit Card,90.91,960.0,6,No,N/A
+CUST00875,Female,46,Bengaluru,23,Two Year,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Debit Card,108.25,2475.59,1,No,N/A
+CUST00876,Female,62,Kolkata,68,Two Year,Fiber,No,No,Yes,No,No,Yes,No,Yes,Credit Card,93.54,6399.17,6,No,N/A
+CUST00877,Female,21,Mumbai,72,Two Year,DSL,No,No,No,No,No,No,Yes,Yes,Credit Card,43.26,3097.15,5,No,N/A
+CUST00878,Female,61,Delhi,15,One Year,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,Debit Card,39.35,633.72,8,No,N/A
+CUST00879,Male,59,Mumbai,72,Month-to-month,None,No,Yes,Yes,No,No,Yes,Yes,No,Debit Card,88.51,6404.68,8,No,N/A
+CUST00880,Female,72,Hyderabad,42,One Year,Fiber,Yes,Yes,Yes,No,No,No,No,Yes,Net Banking,70.3,2917.08,10,No,N/A
+CUST00881,Female,21,Hyderabad,45,Two Year,DSL,Yes,No,Yes,No,Yes,Yes,No,Yes,Credit Card,47.89,2130.49,6,No,N/A
+CUST00882,Female,69,Kolkata,19,Two Year,None,Yes,Yes,No,No,No,Yes,No,Yes,UPI,116.03,2205.82,5,No,N/A
+CUST00883,Female,63,Pune,58,Month-to-month,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Debit Card,45.38,2605.3,2,No,N/A
+CUST00884,Male,74,Hyderabad,15,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Debit Card,85.95,1289.25,7,No,N/A
+CUST00885,Female,42,Delhi,30,Month-to-month,Fiber,No,No,Yes,Yes,Yes,No,Yes,No,Net Banking,20.21,562.6,9,No,N/A
+CUST00886,Female,59,Hyderabad,12,Two Year,Fiber,Yes,No,No,No,Yes,Yes,No,No,Net Banking,111.73,1314.28,9,No,N/A
+CUST00887,Male,47,Kolkata,41,Month-to-month,Fiber,No,No,No,No,No,Yes,No,Yes,Credit Card,99.01,4012.9,4,No,N/A
+CUST00888,Female,41,Pune,56,Month-to-month,None,Yes,Yes,No,Yes,No,No,Yes,No,UPI,109.69,6131.63,5,Yes,Price
+CUST00889,Male,45,Kolkata,61,Two Year,Fiber,No,Yes,No,No,Yes,No,No,Yes,Debit Card,0.0,11.52,6,No,N/A
+CUST00890,Female,68,Delhi,70,One Year,Fiber,No,No,Yes,No,No,Yes,No,No,Credit Card,75.54,5327.57,10,Yes,Support
+CUST00891,Male,42,Mumbai,31,One Year,Fiber,Yes,No,Yes,Yes,No,No,No,No,Credit Card,114.33,3507.5,6,No,N/A
+CUST00892,Female,56,Bengaluru,59,Month-to-month,Fiber,Yes,No,Yes,No,Yes,No,No,Yes,Debit Card,49.08,2854.74,3,No,N/A
+CUST00893,Female,64,Chennai,19,One Year,Fiber,Yes,No,No,No,No,Yes,No,No,Debit Card,67.75,1288.47,2,No,N/A
+CUST00894,Male,63,Mumbai,1,Two Year,Fiber,Yes,No,Yes,No,No,No,Yes,No,Debit Card,34.15,68.61,6,No,N/A
+CUST00895,Female,74,Pune,28,Month-to-month,Fiber,Yes,No,Yes,Yes,No,No,Yes,Yes,Debit Card,47.84,1375.97,3,No,N/A
+CUST00896,Male,68,Chennai,54,Two Year,None,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Credit Card,114.16,6168.86,6,Yes,Price
+CUST00897,Female,21,Bengaluru,41,Month-to-month,Fiber,Yes,No,Yes,No,No,Yes,Yes,No,UPI,28.09,1189.7,6,No,N/A
+CUST00898,Male,69,Bengaluru,12,Two Year,None,No,No,Yes,No,No,Yes,No,No,Net Banking,77.4,910.03,6,No,N/A
+CUST00899,Female,30,Pune,15,Two Year,Fiber,Yes,Yes,Yes,No,No,Yes,Yes,No,Net Banking,93.27,1444.98,9,No,N/A
+CUST00900,Female,46,Pune,29,Two Year,Fiber,No,Yes,No,Yes,No,No,No,Yes,Net Banking,26.87,818.47,4,No,N/A
+CUST00901,Male,53,Pune,58,Month-to-month,DSL,Yes,No,No,No,Yes,Yes,No,No,Credit Card,74.8,4387.37,5,No,N/A
+CUST00902,Female,40,Delhi,58,One Year,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Credit Card,112.7,6557.07,7,No,N/A
+CUST00903,Male,23,Delhi,64,One Year,None,No,Yes,Yes,Yes,No,No,No,No,Credit Card,50.95,3213.56,10,Yes,Poor Service
+CUST00904,Female,70,Pune,23,Two Year,Fiber,Yes,Yes,Yes,Yes,Yes,No,No,No,Credit Card,22.38,536.45,6,No,N/A
+CUST00905,Female,31,Bengaluru,2,One Year,None,No,No,No,Yes,No,No,Yes,No,Credit Card,61.77,154.79,1,Yes,Price
+CUST00906,Female,59,Mumbai,57,Month-to-month,None,Yes,Yes,Yes,No,No,Yes,No,Yes,Debit Card,104.45,5950.02,9,Yes,Competitor
+CUST00907,Female,20,Pune,16,Month-to-month,Fiber,No,Yes,Yes,No,Yes,No,No,Yes,UPI,0.0,0.0,1,No,N/A
+CUST00908,Female,54,Mumbai,44,Two Year,Fiber,No,No,Yes,Yes,No,No,No,No,Credit Card,56.13,2426.79,1,No,N/A
+CUST00909,Male,60,Hyderabad,31,Two Year,DSL,No,No,Yes,Yes,Yes,No,No,No,Net Banking,70.1,2192.54,3,No,N/A
+CUST00910,Male,49,Hyderabad,21,One Year,DSL,No,Yes,No,Yes,No,Yes,No,No,Debit Card,20.8,402.87,6,No,N/A
+CUST00911,Female,39,Delhi,8,Month-to-month,Fiber,Yes,Yes,No,Yes,No,Yes,Yes,No,UPI,86.15,696.47,3,Yes,Poor Service
+CUST00912,Female,32,Bengaluru,32,Two Year,Fiber,No,No,No,No,No,No,Yes,Yes,Debit Card,0.0,38.64,2,Yes,Relocation
+CUST00913,Male,69,Mumbai,55,Two Year,Fiber,No,No,No,Yes,Yes,No,No,No,Credit Card,59.52,3246.69,4,No,N/A
+CUST00914,Male,32,Mumbai,17,Month-to-month,Fiber,No,Yes,Yes,Yes,Yes,No,Yes,No,Credit Card,0.0,0.0,2,No,N/A
+CUST00915,Female,39,Delhi,47,Two Year,None,No,No,No,Yes,Yes,No,Yes,Yes,UPI,63.37,3005.67,9,No,N/A
+CUST00916,Male,50,Ahmedabad,31,Month-to-month,None,No,No,No,Yes,Yes,Yes,Yes,No,Debit Card,96.56,3013.3,4,Yes,Relocation
+CUST00917,Male,60,Bengaluru,1,Month-to-month,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Credit Card,75.12,86.62,9,Yes,Poor Service
+CUST00918,Male,65,Mumbai,54,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Net Banking,115.66,6253.37,4,No,N/A
+CUST00919,Male,20,Bengaluru,46,Two Year,Fiber,No,No,Yes,No,No,No,Yes,Yes,Credit Card,32.72,1542.7,4,No,N/A
+CUST00920,Female,43,Delhi,45,Two Year,None,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Net Banking,79.49,3620.54,8,No,N/A
+CUST00921,Male,25,Mumbai,39,One Year,Fiber,No,Yes,No,No,Yes,Yes,Yes,Yes,Credit Card,80.81,3187.65,3,No,N/A
+CUST00922,Female,71,Kolkata,54,One Year,Fiber,No,Yes,No,Yes,Yes,No,No,No,Credit Card,70.11,3772.63,9,No,N/A
+CUST00923,Female,45,Kolkata,39,Month-to-month,None,No,Yes,Yes,No,No,Yes,No,No,Debit Card,97.88,3845.64,5,No,N/A
+CUST00924,Male,23,Pune,59,Month-to-month,DSL,Yes,No,Yes,No,No,No,Yes,Yes,Credit Card,104.65,6162.88,7,No,N/A
+CUST00925,Female,27,Hyderabad,69,Two Year,DSL,Yes,No,No,Yes,Yes,No,Yes,Yes,UPI,114.91,7938.2,10,Yes,Support
+CUST00926,Male,32,Hyderabad,59,One Year,Fiber,Yes,Yes,Yes,Yes,No,No,No,Yes,UPI,38.67,2268.09,1,No,N/A
+CUST00927,Female,39,Ahmedabad,35,One Year,None,No,No,Yes,No,Yes,No,No,No,UPI,66.69,2356.93,10,No,N/A
+CUST00928,Male,45,Hyderabad,51,One Year,Fiber,Yes,Yes,No,No,No,Yes,Yes,No,UPI,92.81,4761.0,7,No,N/A
+CUST00929,Female,43,Pune,66,One Year,Fiber,Yes,Yes,Yes,No,No,Yes,Yes,No,Credit Card,54.17,3601.26,10,Yes,Competitor
+CUST00930,Female,59,Hyderabad,35,Month-to-month,Fiber,No,Yes,No,No,No,Yes,Yes,No,Net Banking,32.25,1160.11,1,No,N/A
+CUST00931,Female,51,Chennai,29,Month-to-month,Fiber,Yes,Yes,No,No,Yes,No,No,Yes,Debit Card,65.79,1868.33,1,Yes,Price
+CUST00932,Female,34,Pune,47,Two Year,None,No,Yes,Yes,No,Yes,Yes,Yes,No,UPI,85.79,4056.04,3,No,N/A
+CUST00933,Female,44,Hyderabad,19,Month-to-month,DSL,Yes,Yes,No,Yes,Yes,No,Yes,No,Credit Card,64.47,1220.23,10,No,N/A
+CUST00934,Female,72,Bengaluru,4,Two Year,Fiber,Yes,No,Yes,No,No,Yes,Yes,No,Credit Card,56.75,241.91,1,Yes,Poor Service
+CUST00935,Male,49,Bengaluru,39,Month-to-month,Fiber,Yes,Yes,No,No,No,Yes,No,Yes,Credit Card,77.37,3046.61,4,No,N/A
+CUST00936,Female,57,Chennai,24,Two Year,None,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Debit Card,83.12,1993.34,4,No,N/A
+CUST00937,Male,45,Kolkata,1,Month-to-month,None,No,Yes,No,No,Yes,Yes,No,Yes,Debit Card,105.29,124.41,4,No,N/A
+CUST00938,Male,42,Mumbai,50,Month-to-month,Fiber,No,Yes,Yes,No,Yes,No,Yes,Yes,Credit Card,98.79,4901.58,9,No,N/A
+CUST00939,Female,67,Kolkata,64,One Year,Fiber,No,No,No,Yes,Yes,Yes,Yes,Yes,Debit Card,104.18,6660.99,5,No,N/A
+CUST00940,Male,40,Bengaluru,21,Two Year,None,Yes,Yes,No,No,Yes,No,Yes,No,Debit Card,70.84,1501.11,10,No,N/A
+CUST00941,Male,22,Delhi,48,Two Year,Fiber,No,No,No,No,Yes,Yes,Yes,No,UPI,110.02,5255.18,8,No,N/A
+CUST00942,Male,74,Delhi,30,Month-to-month,DSL,Yes,No,Yes,No,No,Yes,No,No,Net Banking,114.98,3476.62,9,No,N/A
+CUST00943,Male,69,Bengaluru,9,Two Year,None,Yes,No,Yes,No,No,Yes,Yes,No,UPI,47.68,426.73,6,No,N/A
+CUST00944,Male,55,Chennai,55,One Year,None,No,No,Yes,Yes,No,Yes,Yes,Yes,UPI,76.96,4249.85,10,No,N/A
+CUST00945,Female,24,Bengaluru,22,Two Year,None,Yes,Yes,No,Yes,Yes,Yes,No,No,Net Banking,35.83,739.75,10,No,N/A
+CUST00946,Male,28,Kolkata,69,One Year,DSL,Yes,Yes,Yes,Yes,No,No,Yes,No,UPI,65.39,4465.54,9,No,N/A
+CUST00947,Male,58,Pune,68,Month-to-month,Fiber,Yes,No,No,No,Yes,Yes,No,Yes,Debit Card,67.52,4595.83,6,No,N/A
+CUST00948,Female,49,Kolkata,16,One Year,DSL,No,No,No,Yes,Yes,Yes,Yes,No,Net Banking,35.85,582.21,6,No,N/A
+CUST00949,Female,55,Ahmedabad,51,One Year,Fiber,No,Yes,No,No,No,Yes,No,No,Credit Card,74.48,3824.73,8,No,N/A
+CUST00950,Female,35,Kolkata,3,Two Year,Fiber,No,No,Yes,Yes,No,Yes,No,Yes,UPI,55.3,185.8,8,No,N/A
+CUST00951,Male,41,Chennai,27,Month-to-month,Fiber,Yes,No,No,Yes,No,No,Yes,Yes,UPI,0.0,0.0,8,No,N/A
+CUST00952,Female,40,Pune,38,One Year,None,No,Yes,No,No,No,No,Yes,No,UPI,82.08,3125.0,10,No,N/A
+CUST00953,Male,66,Hyderabad,10,Two Year,DSL,No,No,No,Yes,No,No,No,Yes,Debit Card,50.54,467.53,10,No,N/A
+CUST00954,Female,64,Hyderabad,19,Two Year,None,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Credit Card,79.33,1507.32,3,No,N/A
+CUST00955,Female,30,Pune,23,Two Year,None,No,No,No,No,Yes,Yes,Yes,Yes,Credit Card,67.87,1515.35,6,No,N/A
+CUST00956,Male,64,Hyderabad,6,Two Year,Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,No,UPI,76.67,494.85,7,No,N/A
+CUST00957,Female,58,Ahmedabad,51,Month-to-month,None,No,Yes,Yes,Yes,No,No,No,Yes,UPI,72.88,3726.37,4,No,N/A
+CUST00958,Male,74,Hyderabad,42,One Year,Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Net Banking,42.13,1726.71,9,No,N/A
+CUST00959,Female,63,Kolkata,38,Two Year,None,No,Yes,Yes,No,Yes,No,No,Yes,Debit Card,60.66,2320.68,1,No,N/A
+CUST00960,Male,20,Pune,12,Month-to-month,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Net Banking,117.23,1400.58,5,Yes,Competitor
+CUST00961,Male,51,Bengaluru,51,Two Year,Fiber,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Debit Card,64.85,3291.03,3,No,N/A
+CUST00962,Male,60,Kolkata,2,One Year,DSL,Yes,No,No,Yes,No,No,No,Yes,Credit Card,41.95,59.26,8,No,N/A
+CUST00963,Female,70,Ahmedabad,23,Month-to-month,Fiber,Yes,Yes,No,Yes,Yes,Yes,No,No,Credit Card,57.02,1267.07,3,No,N/A
+CUST00964,Male,46,Kolkata,3,One Year,None,No,Yes,No,No,No,No,No,Yes,Debit Card,91.77,321.07,3,Yes,Competitor
+CUST00965,Female,27,Ahmedabad,34,Two Year,Fiber,No,Yes,Yes,Yes,No,Yes,No,No,Net Banking,55.98,1907.48,9,No,N/A
+CUST00966,Female,33,Hyderabad,69,One Year,None,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,45.47,3138.14,3,No,N/A
+CUST00967,Male,60,Delhi,66,One Year,Fiber,No,No,Yes,Yes,Yes,No,Yes,No,UPI,0.0,19.69,9,No,N/A
+CUST00968,Male,29,Bengaluru,23,One Year,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No,UPI,93.52,2190.7,2,No,N/A
+CUST00969,Female,55,Kolkata,20,Month-to-month,Fiber,Yes,Yes,Yes,No,No,No,No,Yes,UPI,57.57,1139.09,6,No,N/A
+CUST00970,Male,69,Bengaluru,65,Month-to-month,DSL,No,No,Yes,No,Yes,No,No,No,Debit Card,69.91,4554.07,6,Yes,Relocation
+CUST00971,Female,32,Pune,51,Month-to-month,DSL,No,No,No,Yes,Yes,No,Yes,Yes,Net Banking,85.79,4341.29,10,No,N/A
+CUST00972,Male,27,Pune,11,Month-to-month,Fiber,No,No,Yes,Yes,Yes,No,No,No,Debit Card,54.93,562.6,10,Yes,Competitor
+CUST00973,Female,60,Bengaluru,56,Month-to-month,DSL,No,Yes,No,No,Yes,No,Yes,Yes,Debit Card,86.84,4894.28,7,No,N/A
+CUST00974,Male,63,Bengaluru,14,Month-to-month,None,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Credit Card,73.83,1068.75,1,No,N/A
+CUST00975,Female,37,Mumbai,48,Month-to-month,None,Yes,No,No,Yes,No,No,No,Yes,Credit Card,106.97,5138.9,9,No,N/A
+CUST00976,Female,33,Chennai,6,Two Year,DSL,No,No,No,No,No,Yes,No,Yes,Debit Card,37.77,269.43,8,No,N/A
+CUST00977,Male,22,Hyderabad,38,Month-to-month,Fiber,No,Yes,Yes,No,Yes,No,Yes,Yes,UPI,31.18,1148.93,7,No,N/A
+CUST00978,Female,27,Kolkata,63,Two Year,None,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Net Banking,111.7,7043.94,2,Yes,Support
+CUST00979,Male,65,Bengaluru,55,Two Year,DSL,Yes,No,Yes,Yes,Yes,No,Yes,No,Debit Card,93.75,5180.76,1,Yes,Competitor
+CUST00980,Male,44,Bengaluru,35,Two Year,None,Yes,Yes,No,No,No,Yes,No,No,Debit Card,72.95,2526.74,1,No,N/A
+CUST00981,Female,61,Hyderabad,30,Month-to-month,DSL,No,Yes,No,Yes,No,Yes,No,No,Credit Card,75.58,2306.35,9,No,N/A
+CUST00982,Male,27,Bengaluru,32,Month-to-month,Fiber,Yes,Yes,Yes,No,Yes,No,Yes,No,UPI,50.47,1642.74,1,No,N/A
+CUST00983,Female,70,Bengaluru,3,Month-to-month,None,Yes,No,Yes,Yes,Yes,No,No,No,Credit Card,109.57,328.01,2,No,N/A
+CUST00984,Male,52,Pune,59,One Year,None,No,Yes,Yes,Yes,No,No,No,No,Net Banking,89.48,5264.55,10,No,N/A
+CUST00985,Male,37,Bengaluru,22,One Year,DSL,Yes,No,No,Yes,No,No,Yes,Yes,Net Banking,55.39,1251.52,3,No,N/A
+CUST00986,Female,22,Ahmedabad,35,Two Year,None,No,No,Yes,Yes,No,No,No,No,UPI,34.27,1211.18,7,No,N/A
+CUST00987,Female,25,Kolkata,37,One Year,Fiber,No,No,No,Yes,No,Yes,No,No,Credit Card,27.53,1019.52,10,No,N/A
+CUST00988,Male,38,Bengaluru,34,Month-to-month,Fiber,Yes,No,Yes,No,Yes,No,No,No,Credit Card,20.99,724.15,9,No,N/A
+CUST00989,Male,18,Hyderabad,3,Two Year,Fiber,No,No,No,Yes,No,No,Yes,No,Net Banking,37.91,117.19,5,Yes,Price
+CUST00990,Male,21,Mumbai,31,Month-to-month,Fiber,No,No,No,Yes,No,Yes,Yes,No,Net Banking,0.0,42.55,8,No,N/A
+CUST00991,Female,45,Ahmedabad,38,Two Year,Fiber,No,Yes,Yes,No,Yes,No,Yes,Yes,Credit Card,46.11,1758.71,8,No,N/A
+CUST00992,Female,37,Pune,27,Month-to-month,None,Yes,No,No,No,No,No,No,No,Debit Card,108.86,2901.51,4,No,N/A
+CUST00993,Female,73,Ahmedabad,39,Month-to-month,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Debit Card,57.78,2282.16,3,Yes,Competitor
+CUST00994,Female,52,Pune,38,Two Year,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,UPI,22.94,871.61,8,No,N/A
+CUST00995,Male,24,Bengaluru,1,Two Year,None,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Net Banking,28.18,0.0,6,No,N/A
+CUST00996,Female,67,Pune,31,Two Year,None,Yes,No,No,No,No,Yes,Yes,No,Debit Card,84.01,2617.64,8,No,N/A
+CUST00997,Female,49,Chennai,45,Two Year,Fiber,No,Yes,Yes,No,Yes,Yes,No,No,Credit Card,105.92,4726.54,2,No,N/A
+CUST00998,Female,67,Bengaluru,34,One Year,DSL,No,Yes,No,Yes,No,No,No,Yes,UPI,50.73,1721.98,6,No,N/A
+CUST00999,Male,32,Hyderabad,38,Month-to-month,None,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Credit Card,80.3,3005.06,4,No,N/A
+CUST01000,Female,52,Ahmedabad,66,Month-to-month,Fiber,No,No,Yes,No,Yes,No,Yes,Yes,Net Banking,73.49,4817.85,9,Yes,Poor Service
